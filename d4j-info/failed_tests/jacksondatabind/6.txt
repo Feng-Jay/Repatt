@@ -1,0 +1,2 @@
+com.fasterxml.jackson.databind.deser.TestDateDeserialization::testISO8601MissingSeconds
+com.fasterxml.jackson.databind.deser.TestDateDeserialization::testISO8601PartialMilliseconds

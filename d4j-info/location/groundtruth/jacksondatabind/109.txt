@@ -1,0 +1,8 @@
+com.fasterxml.jackson.databind.ser.std.NumberSerializer#32
+com.fasterxml.jackson.databind.ser.std.NumberSerializer#38
+com.fasterxml.jackson.databind.ser.std.NumberSerializer#56
+com.fasterxml.jackson.databind.ser.std.NumberSerializer#58
+com.fasterxml.jackson.databind.ser.std.NumberSerializers#4
+com.fasterxml.jackson.databind.ser.std.NumberSerializers#5
+com.fasterxml.jackson.databind.ser.std.NumberSerializers#99
+com.fasterxml.jackson.databind.ser.std.NumberSerializers#100

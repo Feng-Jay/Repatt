@@ -1,0 +1,6 @@
+org.jsoup.helper.W3CDom#21
+org.jsoup.helper.W3CDom#73
+org.jsoup.helper.W3CDom#77
+org.jsoup.helper.W3CDom#81
+org.jsoup.helper.W3CDom#85
+org.jsoup.helper.W3CDom#144

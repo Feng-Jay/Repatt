@@ -1,0 +1,9 @@
+com.google.javascript.jscomp.ProcessCommonJSModules#121,1.0
+com.google.javascript.jscomp.ProcessCommonJSModules#54,0.4472135954999579
+com.google.javascript.jscomp.ProcessCommonJSModules#120,0.31622776601683794
+com.google.javascript.jscomp.ProcessCommonJSModules#62,0.31622776601683794
+com.google.javascript.jscomp.ProcessCommonJSModules#89,0.31622776601683794
+com.google.javascript.jscomp.ProcessCommonJSModules#59,0.31622776601683794
+com.google.javascript.jscomp.ProcessCommonJSModules#124,0.31622776601683794
+com.google.javascript.jscomp.ProcessCommonJSModules#60,0.31622776601683794
+com.google.javascript.jscomp.ProcessCommonJSModules#72,0.31622776601683794

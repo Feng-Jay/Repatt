@@ -1,0 +1,6 @@
+com.fasterxml.jackson.core.filter.FilteringParserDelegate#223
+com.fasterxml.jackson.core.filter.FilteringParserDelegate#231
+com.fasterxml.jackson.core.filter.FilteringParserDelegate#223
+com.fasterxml.jackson.core.filter.FilteringParserDelegate#231
+com.fasterxml.jackson.core.filter.FilteringParserDelegate#223
+com.fasterxml.jackson.core.filter.FilteringParserDelegate#231

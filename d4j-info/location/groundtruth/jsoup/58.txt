@@ -1,0 +1,5 @@
+org.jsoup.Jsoup#250
+org.jsoup.safety.Cleaner#15
+org.jsoup.safety.Cleaner#20
+org.jsoup.safety.Cleaner#78
+org.jsoup.safety.Cleaner#83

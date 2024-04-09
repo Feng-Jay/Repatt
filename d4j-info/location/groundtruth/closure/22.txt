@@ -1,0 +1,11 @@
+com.google.javascript.jscomp.CheckSideEffects#101
+com.google.javascript.jscomp.CheckSideEffects#102
+com.google.javascript.jscomp.CheckSideEffects#103
+com.google.javascript.jscomp.CheckSideEffects#104
+com.google.javascript.jscomp.CheckSideEffects#111
+com.google.javascript.jscomp.CheckSideEffects#112
+com.google.javascript.jscomp.CheckSideEffects#113
+com.google.javascript.jscomp.CheckSideEffects#114
+com.google.javascript.jscomp.CheckSideEffects#116
+com.google.javascript.jscomp.CheckSideEffects#134
+com.google.javascript.jscomp.CheckSideEffects#136

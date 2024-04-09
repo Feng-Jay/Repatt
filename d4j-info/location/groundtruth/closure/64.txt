@@ -1,0 +1,3 @@
+com.google.javascript.jscomp.Compiler#1432
+com.google.javascript.jscomp.Compiler#1461
+com.google.javascript.jscomp.Compiler#1473

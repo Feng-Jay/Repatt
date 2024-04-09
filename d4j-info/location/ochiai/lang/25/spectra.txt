@@ -1,0 +1,6 @@
+org.apache.commons.lang3.text.translate.EntityArrays#30,0.5773502691896258
+org.apache.commons.lang3.text.translate.EntityArrays#372,0.0
+org.apache.commons.lang3.text.translate.EntityArrays#373,0.0
+org.apache.commons.lang3.text.translate.EntityArrays#374,0.0
+org.apache.commons.lang3.text.translate.EntityArrays#375,0.0
+org.apache.commons.lang3.text.translate.EntityArrays#377,0.0

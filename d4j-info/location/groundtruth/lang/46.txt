@@ -1,0 +1,5 @@
+org.apache.commons.lang.StringEscapeUtils#86
+org.apache.commons.lang.StringEscapeUtils#102
+org.apache.commons.lang.StringEscapeUtils#143
+org.apache.commons.lang.StringEscapeUtils#160
+org.apache.commons.lang.StringEscapeUtils#244

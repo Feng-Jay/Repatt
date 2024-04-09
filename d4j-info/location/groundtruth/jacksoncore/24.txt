@@ -1,0 +1,8 @@
+com.fasterxml.jackson.core.base.ParserBase#869
+com.fasterxml.jackson.core.base.ParserBase#870
+com.fasterxml.jackson.core.base.ParserBase#871
+com.fasterxml.jackson.core.base.ParserBase#887
+com.fasterxml.jackson.core.base.ParserMinimalBase#565
+com.fasterxml.jackson.core.base.ParserMinimalBase#566
+com.fasterxml.jackson.core.base.ParserMinimalBase#582
+com.fasterxml.jackson.core.base.ParserMinimalBase#583

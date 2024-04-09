@@ -1,0 +1,9 @@
+org.apache.commons.math.distribution.PoissonDistributionImpl#94,1.0
+org.apache.commons.math.distribution.PoissonDistributionImpl#93,0.3779644730092272
+org.apache.commons.math.distribution.AbstractIntegerDistribution#52,0.2182178902359924
+org.apache.commons.math.distribution.AbstractDistribution#40,0.1111111111111111
+org.apache.commons.math.MathRuntimeException#387,0.07602859212697055
+org.apache.commons.math.distribution.PoissonDistributionImpl#96,0.0
+org.apache.commons.math.distribution.PoissonDistributionImpl#97,0.0
+org.apache.commons.math.distribution.PoissonDistributionImpl#98,0.0
+org.apache.commons.math.distribution.PoissonDistributionImpl#99,0.0

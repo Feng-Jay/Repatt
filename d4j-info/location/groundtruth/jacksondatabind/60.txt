@@ -1,0 +1,5 @@
+com.fasterxml.jackson.databind.ser.std.JsonValueSerializer#7
+com.fasterxml.jackson.databind.ser.std.JsonValueSerializer#9
+com.fasterxml.jackson.databind.ser.std.JsonValueSerializer#16
+com.fasterxml.jackson.databind.ser.std.JsonValueSerializer#17
+com.fasterxml.jackson.databind.ser.std.JsonValueSerializer#226

@@ -1,0 +1,2 @@
+org.jsoup.parser.HtmlParserTest::parsesQuiteRoughAttributes
+org.jsoup.parser.TokeniserStateTest::handlesLessInTagThanAsNewTag

@@ -1,0 +1,1286 @@
+===
+Compress 1 T
+/Users/higgs/Desktop/Patches/Repatt/Compress/1/2.patch
+/Users/higgs/Desktop/Patches/TransplantFix/Compress/1/1.patch
+/Users/higgs/Desktop/Patches/Repatt/Compress/1/3.patch
+/Users/higgs/Desktop/Patches/Repatt/Compress/1/1.patch
+===
+Compress 35 F
+/Users/higgs/Desktop/Patches/Repatt/Compress/35/2.patch
+/Users/higgs/Desktop/Patches/Repatt/Compress/35/3.patch
+/Users/higgs/Desktop/Patches/Repatt/Compress/35/1.patch
+/Users/higgs/Desktop/Patches/TBar/Compress/35/1.patch
+/Users/higgs/Desktop/Patches/TransplantFix/Compress/35/1.patch
+===
+Compress 4 F
+/Users/higgs/Desktop/Patches/TBar/Compress/4/1.patch
+/Users/higgs/Desktop/Patches/Repatt/Compress/4/3.patch
+/Users/higgs/Desktop/Patches/TransplantFix/Compress/4/1.patch
+/Users/higgs/Desktop/Patches/Repatt/Compress/4/2.patch
+/Users/higgs/Desktop/Patches/Repatt/Compress/4/1.patch
+===
+Compress 38 F
+/Users/higgs/Desktop/Patches/SimFix/Compress/38/1.patch
+/Users/higgs/Desktop/Patches/TBar/Compress/38/1.patch
+/Users/higgs/Desktop/Patches/TransplantFix/Compress/38/1.patch
+/Users/higgs/Desktop/Patches/Repatt/Compress/38/3.patch
+/Users/higgs/Desktop/Patches/Repatt/Compress/38/2.patch
+/Users/higgs/Desktop/Patches/Repatt/Compress/38/1.patch
+===
+Compress 6 T
+/Users/higgs/Desktop/Patches/TBar/Compress/6/1.patch
+/Users/higgs/Desktop/Patches/TransplantFix/Compress/6/1.patch
+===
+Compress 42 F
+/Users/higgs/Desktop/Patches/Repatt/Compress/42/2.patch
+/Users/higgs/Desktop/Patches/Repatt/Compress/42/3.patch
+/Users/higgs/Desktop/Patches/Repatt/Compress/42/1.patch
+/Users/higgs/Desktop/Patches/TBar/Compress/42/1.patch
+/Users/higgs/Desktop/Patches/TransplantFix/Compress/42/1.patch
+===
+Compress 14 T
+/Users/higgs/Desktop/Patches/Repatt/Compress/14/2.patch
+/Users/higgs/Desktop/Patches/Repatt/Compress/14/1.patch
+/Users/higgs/Desktop/Patches/SimFix/Compress/14/1.patch
+/Users/higgs/Desktop/Patches/TBar/Compress/14/1.patch
+===
+Compress 15 F
+/Users/higgs/Desktop/Patches/TBar/Compress/15/1.patch
+===
+Compress 18 F
+/Users/higgs/Desktop/Patches/Repatt/Compress/18/2.patch
+/Users/higgs/Desktop/Patches/Repatt/Compress/18/6.patch
+/Users/higgs/Desktop/Patches/Repatt/Compress/18/3.patch
+/Users/higgs/Desktop/Patches/Repatt/Compress/18/7.patch
+/Users/higgs/Desktop/Patches/Repatt/Compress/18/4.patch
+/Users/higgs/Desktop/Patches/Repatt/Compress/18/8.patch
+/Users/higgs/Desktop/Patches/Repatt/Compress/18/1.patch
+/Users/higgs/Desktop/Patches/Repatt/Compress/18/5.patch
+===
+Compress 19 T
+/Users/higgs/Desktop/Patches/TBar/Compress/19/1.patch
+/Users/higgs/Desktop/Patches/SimFix/Compress/19/1.patch
+===
+Compress 20 F
+/Users/higgs/Desktop/Patches/Repatt/Compress/20/2.patch
+/Users/higgs/Desktop/Patches/Repatt/Compress/20/1.patch
+===
+Compress 21 T
+/Users/higgs/Desktop/Patches/TBar/Compress/21/1.patch
+===
+Compress 23 F
+/Users/higgs/Desktop/Patches/Repatt/Compress/23/3.patch
+/Users/higgs/Desktop/Patches/Repatt/Compress/23/1.patch
+/Users/higgs/Desktop/Patches/Repatt/Compress/23/2.patch
+===
+Compress 24 F
+/Users/higgs/Desktop/Patches/TransplantFix/Compress/24/1.patch
+/Users/higgs/Desktop/Patches/TBar/Compress/24/1.patch
+/Users/higgs/Desktop/Patches/Repatt/Compress/24/4.patch
+/Users/higgs/Desktop/Patches/Repatt/Compress/24/3.patch
+/Users/higgs/Desktop/Patches/Repatt/Compress/24/1.patch
+/Users/higgs/Desktop/Patches/Repatt/Compress/24/2.patch
+/Users/higgs/Desktop/Patches/Repatt/Compress/24/5.patch
+===
+Compress 27 T
+/Users/higgs/Desktop/Patches/Repatt/Compress/27/6.patch
+/Users/higgs/Desktop/Patches/Repatt/Compress/27/4.patch
+/Users/higgs/Desktop/Patches/Repatt/Compress/27/5.patch
+/Users/higgs/Desktop/Patches/TBar/Compress/27/1.patch
+/Users/higgs/Desktop/Patches/TransplantFix/Compress/27/1.patch
+/Users/higgs/Desktop/Patches/SimFix/Compress/27/1.patch
+/Users/higgs/Desktop/Patches/Repatt/Compress/27/3.patch
+/Users/higgs/Desktop/Patches/Repatt/Compress/27/2.patch
+/Users/higgs/Desktop/Patches/Repatt/Compress/27/1.patch
+===
+Compress 28 F
+/Users/higgs/Desktop/Patches/Repatt/Compress/28/2.patch
+/Users/higgs/Desktop/Patches/Repatt/Compress/28/6.patch
+/Users/higgs/Desktop/Patches/Repatt/Compress/28/3.patch
+/Users/higgs/Desktop/Patches/Repatt/Compress/28/5.patch
+/Users/higgs/Desktop/Patches/Repatt/Compress/28/4.patch
+/Users/higgs/Desktop/Patches/Repatt/Compress/28/1.patch
+===
+Compress 30  T
+/Users/higgs/Desktop/Patches/TransplantFix/Compress/30/1.patch
+===
+Compress 31  F
+/Users/higgs/Desktop/Patches/Repatt/Compress/31/6.patch
+/Users/higgs/Desktop/Patches/Repatt/Compress/31/4.patch
+/Users/higgs/Desktop/Patches/Repatt/Compress/31/5.patch
+/Users/higgs/Desktop/Patches/TBar/Compress/31/1.patch
+/Users/higgs/Desktop/Patches/TransplantFix/Compress/31/1.patch
+/Users/higgs/Desktop/Patches/Repatt/Compress/31/3.patch
+/Users/higgs/Desktop/Patches/Repatt/Compress/31/1.patch
+/Users/higgs/Desktop/Patches/Repatt/Compress/31/2.patch
+===
+JacksonXml 4 T
+/Users/higgs/Desktop/Patches/TBar/JacksonXml/4/1.patch
+===
+Cli 32 F
+/Users/higgs/Desktop/Patches/Repatt/Cli/32/4.patch
+/Users/higgs/Desktop/Patches/Repatt/Cli/32/5.patch
+/Users/higgs/Desktop/Patches/TBar/Cli/32/1.patch
+/Users/higgs/Desktop/Patches/Repatt/Cli/32/1.patch
+/Users/higgs/Desktop/Patches/TransplantFix/Cli/32/1.patch
+/Users/higgs/Desktop/Patches/Repatt/Cli/32/2.patch
+/Users/higgs/Desktop/Patches/Repatt/Cli/32/3.patch
+===
+Cli 1 F
+/Users/higgs/Desktop/Patches/TBar/Cli/1/1.patch
+===
+Cli 37 F
+/Users/higgs/Desktop/Patches/Repatt/Cli/37/2.patch
+/Users/higgs/Desktop/Patches/Repatt/Cli/37/4.patch
+/Users/higgs/Desktop/Patches/Repatt/Cli/37/1.patch
+/Users/higgs/Desktop/Patches/Repatt/Cli/37/3.patch
+===
+Cli 5 T
+/Users/higgs/Desktop/Patches/Repatt/Cli/5/1.patch
+/Users/higgs/Desktop/Patches/TBar/Cli/5/1.patch
+===
+Cli 39 F
+/Users/higgs/Desktop/Patches/TBar/Cli/39/1.patch
+===
+Cli 8 T
+/Users/higgs/Desktop/Patches/Repatt/Cli/8/1.patch
+/Users/higgs/Desktop/Patches/TBar/Cli/8/1.patch
+===
+Cli 11 F
+/Users/higgs/Desktop/Patches/Repatt/Cli/11/4.patch
+/Users/higgs/Desktop/Patches/Repatt/Cli/11/3.patch
+/Users/higgs/Desktop/Patches/TBar/Cli/11/1.patch
+/Users/higgs/Desktop/Patches/TransplantFix/Cli/11/1.patch
+/Users/higgs/Desktop/Patches/Repatt/Cli/11/1.patch
+/Users/higgs/Desktop/Patches/Repatt/Cli/11/2.patch
+===
+Cli 14 F
+/Users/higgs/Desktop/Patches/TransplantFix/Cli/14/1.patch
+===
+Cli 17 T
+/Users/higgs/Desktop/Patches/TransplantFix/Cli/17/1.patch
+===
+Cli 18 T
+/Users/higgs/Desktop/Patches/TransplantFix/Cli/18/1.patch
+/Users/higgs/Desktop/Patches/Repatt/Cli/18/2.patch
+/Users/higgs/Desktop/Patches/Repatt/Cli/18/3.patch
+/Users/higgs/Desktop/Patches/Repatt/Cli/18/1.patch
+===
+Cli 19 F
+/Users/higgs/Desktop/Patches/TransplantFix/Cli/19/1.patch
+/Users/higgs/Desktop/Patches/Repatt/Cli/19/1.patch
+===
+Cli 22 F
+/Users/higgs/Desktop/Patches/SimFix/Cli/22/1.patch
+/Users/higgs/Desktop/Patches/TransplantFix/Cli/22/1.patch
+===
+Cli 23 F
+/Users/higgs/Desktop/Patches/TransplantFix/Cli/23/1.patch
+===
+Cli 25 F
+/Users/higgs/Desktop/Patches/TBar/Cli/25/1.patch
+===
+Cli 27 F
+/Users/higgs/Desktop/Patches/Repatt/Cli/27/1.patch
+===
+Closure 2 T
+/Users/higgs/Desktop/Patches/TBar/Closure/2/1.patch
+===
+Closure 68 T
+/Users/higgs/Desktop/Patches/SimFix/Closure/68/1.patch
+/Users/higgs/Desktop/Patches/Repatt/Closure/68/1.patch
+===
+Closure 4 F
+/Users/higgs/Desktop/Patches/TBar/Closure/4/1.patch
+===
+Closure 133 T
+/Users/higgs/Desktop/Patches/TransplantFix/Closure/133/1.patch
+===
+Closure 70 T
+/Users/higgs/Desktop/Patches/Repatt/Closure/70/1.patch
+/Users/higgs/Desktop/Patches/TBar/Closure/70/1.patch
+===
+Closure 73 T
+/Users/higgs/Desktop/Patches/Repatt/Closure/73/1.patch
+/Users/higgs/Desktop/Patches/SimFix/Closure/73/1.patch
+/Users/higgs/Desktop/Patches/TBar/Closure/73/1.patch
+/Users/higgs/Desktop/Patches/TransplantFix/Closure/73/1.patch
+/Users/higgs/Desktop/Patches/Repatt/Closure/73/2.patch
+===
+Closure 10 T
+/Users/higgs/Desktop/Patches/TBar/Closure/10/1.patch
+/Users/higgs/Desktop/Patches/TransplantFix/Closure/10/1.patch
+===
+Closure 11 F
+/Users/higgs/Desktop/Patches/Repatt/Closure/11/4.patch
+/Users/higgs/Desktop/Patches/Repatt/Closure/11/6.patch
+/Users/higgs/Desktop/Patches/Repatt/Closure/11/3.patch
+/Users/higgs/Desktop/Patches/Repatt/Closure/11/1.patch
+/Users/higgs/Desktop/Patches/Repatt/Closure/11/5.patch
+/Users/higgs/Desktop/Patches/Repatt/Closure/11/2.patch
+/Users/higgs/Desktop/Patches/TransplantFix/Closure/11/1.patch
+/Users/higgs/Desktop/Patches/SimFix/Closure/11/1.patch
+/Users/higgs/Desktop/Patches/TBar/Closure/11/1.patch
+===
+Closure 13 T
+/Users/higgs/Desktop/Patches/TBar/Closure/13/1.patch
+/Users/higgs/Desktop/Patches/TransplantFix/Closure/13/1.patch
+===
+Closure 14 T
+/Users/higgs/Desktop/Patches/SimFix/Closure/14/1.patch
+===
+Closure 18 T
+/Users/higgs/Desktop/Patches/TBar/Closure/18/1.patch
+/Users/higgs/Desktop/Patches/SimFix/Closure/18/1.patch
+===
+Closure 19 F
+/Users/higgs/Desktop/Patches/TransplantFix/Closure/19/1.patch
+===
+Closure 20 T
+/Users/higgs/Desktop/Patches/TransplantFix/Closure/20/1.patch
+===
+Closure 21 F
+/Users/higgs/Desktop/Patches/TBar/Closure/21/1.patch
+/Users/higgs/Desktop/Patches/TransplantFix/Closure/21/1.patch
+===
+Closure 86 T
+/Users/higgs/Desktop/Patches/Repatt/Closure/86/1.patch
+/Users/higgs/Desktop/Patches/TBar/Closure/86/1.patch
+/Users/higgs/Desktop/Patches/TransplantFix/Closure/86/1.patch
+===
+Closure 22 F
+/Users/higgs/Desktop/Patches/TBar/Closure/22/1.patch
+/Users/higgs/Desktop/Patches/SimFix/Closure/22/1.patch
+/Users/higgs/Desktop/Patches/TransplantFix/Closure/22/1.patch
+===
+Closure 152 F
+/Users/higgs/Desktop/Patches/TransplantFix/Closure/152/1.patch
+===
+Closure 25 F
+/Users/higgs/Desktop/Patches/TBar/Closure/25/1.patch
+===
+Closure 92 T
+/Users/higgs/Desktop/Patches/Repatt/Closure/92/1.patch
+/Users/higgs/Desktop/Patches/SimFix/Closure/92/1.patch
+/Users/higgs/Desktop/Patches/TBar/Closure/92/1.patch
+===
+Closure 31 T
+/Users/higgs/Desktop/Patches/TBar/Closure/31/1.patch
+===
+Closure 159 F
+/Users/higgs/Desktop/Patches/TransplantFix/Closure/159/1.patch
+===
+Closure 161 F
+/Users/higgs/Desktop/Patches/TransplantFix/Closure/161/1.patch
+===
+Closure 33 F
+/Users/higgs/Desktop/Patches/TransplantFix/Closure/33/1.patch
+===
+Closure 38 T
+/Users/higgs/Desktop/Patches/Repatt/Closure/38/1.patch
+/Users/higgs/Desktop/Patches/TBar/Closure/38/1.patch
+===
+Closure 102 T
+/Users/higgs/Desktop/Patches/TBar/Closure/102/1.patch
+/Users/higgs/Desktop/Patches/TransplantFix/Closure/102/1.patch
+===
+Closure 168 T
+/Users/higgs/Desktop/Patches/Repatt/Closure/168/1.patch
+/Users/higgs/Desktop/Patches/SimFix/Closure/168/1.patch
+===
+Closure 40 T
+/Users/higgs/Desktop/Patches/Repatt/Closure/40/1.patch
+/Users/higgs/Desktop/Patches/TBar/Closure/40/1.patch
+===
+Closure 107 F
+/Users/higgs/Desktop/Patches/Repatt/Closure/107/2.patch
+/Users/higgs/Desktop/Patches/Repatt/Closure/107/1.patch
+/Users/higgs/Desktop/Patches/TransplantFix/Closure/107/1.patch
+/Users/higgs/Desktop/Patches/SimFix/Closure/107/1.patch
+===
+Closure 109 F
+/Users/higgs/Desktop/Patches/TBar/Closure/109/1.patch
+/Users/higgs/Desktop/Patches/TransplantFix/Closure/109/1.patch
+===
+Closure 46 T
+/Users/higgs/Desktop/Patches/TransplantFix/Closure/46/1.patch
+/Users/higgs/Desktop/Patches/TBar/Closure/46/1.patch
+===
+Closure 115 T
+/Users/higgs/Desktop/Patches/SimFix/Closure/115/1.patch
+/Users/higgs/Desktop/Patches/TransplantFix/Closure/115/1.patch
+/Users/higgs/Desktop/Patches/Repatt/Closure/115/4.patch
+/Users/higgs/Desktop/Patches/Repatt/Closure/115/3.patch
+/Users/higgs/Desktop/Patches/Repatt/Closure/115/1.patch
+/Users/higgs/Desktop/Patches/TBar/Closure/115/1.patch
+/Users/higgs/Desktop/Patches/Repatt/Closure/115/2.patch
+/Users/higgs/Desktop/Patches/Repatt/Closure/115/5.patch
+===
+Closure 57 T
+/Users/higgs/Desktop/Patches/TransplantFix/Closure/57/1.patch
+===
+Closure 59 F
+/Users/higgs/Desktop/Patches/TBar/Closure/59/1.patch
+===
+Closure 125 F
+/Users/higgs/Desktop/Patches/SimFix/Closure/125/1.patch
+/Users/higgs/Desktop/Patches/TBar/Closure/125/1.patch
+/Users/higgs/Desktop/Patches/TransplantFix/Closure/125/1.patch
+===
+Closure 62 T
+/Users/higgs/Desktop/Patches/Repatt/Closure/62/1.patch
+/Users/higgs/Desktop/Patches/SimFix/Closure/62/1.patch
+/Users/higgs/Desktop/Patches/TBar/Closure/62/1.patch
+/Users/higgs/Desktop/Patches/Repatt/Closure/62/2.patch
+/Users/higgs/Desktop/Patches/Repatt/Closure/62/3.patch
+===
+Closure 126 T
+/Users/higgs/Desktop/Patches/TransplantFix/Closure/126/1.patch
+/Users/higgs/Desktop/Patches/SimFix/Closure/126/1.patch
+/Users/higgs/Desktop/Patches/TBar/Closure/126/1.patch
+===
+Csv 4 F
+/Users/higgs/Desktop/Patches/TBar/Csv/4/1.patch
+/Users/higgs/Desktop/Patches/TransplantFix/Csv/4/1.patch
+===
+Csv 5 T
+/Users/higgs/Desktop/Patches/TBar/Csv/5/1.patch
+/Users/higgs/Desktop/Patches/Repatt/Csv/5/1.patch
+===
+Csv 8 F
+/Users/higgs/Desktop/Patches/Repatt/Csv/8/1.patch
+===
+Csv 9 T
+/Users/higgs/Desktop/Patches/TBar/Csv/9/1.patch
+/Users/higgs/Desktop/Patches/TransplantFix/Csv/9/1.patch
+===
+Csv 11 F
+/Users/higgs/Desktop/Patches/Repatt/Csv/11/1.patch
+/Users/higgs/Desktop/Patches/TBar/Csv/11/1.patch
+===
+Csv 14 F
+/Users/higgs/Desktop/Patches/TBar/Csv/14/1.patch
+/Users/higgs/Desktop/Patches/SimFix/Csv/14/1.patch
+===
+Csv 15 F
+/Users/higgs/Desktop/Patches/TBar/Csv/15/1.patch
+/Users/higgs/Desktop/Patches/SimFix/Csv/15/1.patch
+===
+Gson 17 T
+/Users/higgs/Desktop/Patches/Repatt/Gson/17/1.patch
+/Users/higgs/Desktop/Patches/TBar/Gson/17/1.patch
+/Users/higgs/Desktop/Patches/SimFix/Gson/17/1.patch
+===
+Gson 4 F
+/Users/higgs/Desktop/Patches/TBar/Gson/4/1.patch
+===
+Gson 5 F
+/Users/higgs/Desktop/Patches/TransplantFix/Gson/5/1.patch
+===
+Gson 13 F
+/Users/higgs/Desktop/Patches/TBar/Gson/13/1.patch
+===
+Gson 15 T
+/Users/higgs/Desktop/Patches/SimFix/Gson/15/1.patch
+/Users/higgs/Desktop/Patches/TransplantFix/Gson/15/1.patch
+/Users/higgs/Desktop/Patches/Repatt/Gson/15/1.patch
+===
+Jsoup 64 F
+/Users/higgs/Desktop/Patches/Repatt/Jsoup/64/1.patch
+/Users/higgs/Desktop/Patches/SimFix/Jsoup/64/1.patch
+/Users/higgs/Desktop/Patches/TBar/Jsoup/64/1.patch
+/Users/higgs/Desktop/Patches/Repatt/Jsoup/64/2.patch
+===
+Jsoup 1 F
+/Users/higgs/Desktop/Patches/TBar/Jsoup/1/1.patch
+/Users/higgs/Desktop/Patches/TransplantFix/Jsoup/1/1.patch
+/Users/higgs/Desktop/Patches/Repatt/Jsoup/1/3.patch
+/Users/higgs/Desktop/Patches/Repatt/Jsoup/1/1.patch
+/Users/higgs/Desktop/Patches/Repatt/Jsoup/1/2.patch
+===
+Jsoup 2 T
+/Users/higgs/Desktop/Patches/Repatt/Jsoup/2/2.patch
+/Users/higgs/Desktop/Patches/Repatt/Jsoup/2/3.patch
+/Users/higgs/Desktop/Patches/Repatt/Jsoup/2/1.patch
+===
+Jsoup 66 F
+/Users/higgs/Desktop/Patches/TransplantFix/Jsoup/66/1.patch
+===
+Jsoup 68 T
+/Users/higgs/Desktop/Patches/TBar/Jsoup/68/1.patch
+/Users/higgs/Desktop/Patches/TransplantFix/Jsoup/68/1.patch
+/Users/higgs/Desktop/Patches/Repatt/Jsoup/68/2.patch
+/Users/higgs/Desktop/Patches/Repatt/Jsoup/68/1.patch
+===
+Jsoup 75 T
+/Users/higgs/Desktop/Patches/TransplantFix/Jsoup/75/1.patch
+===
+Jsoup 77 T
+/Users/higgs/Desktop/Patches/Repatt/Jsoup/77/1.patch
+===
+Jsoup 13 F
+/Users/higgs/Desktop/Patches/TBar/Jsoup/13/1.patch
+===
+Jsoup 84 F
+/Users/higgs/Desktop/Patches/TBar/Jsoup/84/1.patch
+===
+Jsoup 85 T
+/Users/higgs/Desktop/Patches/TBar/Jsoup/85/1.patch
+===
+Jsoup 24 T
+/Users/higgs/Desktop/Patches/Repatt/Jsoup/24/3.patch
+/Users/higgs/Desktop/Patches/TBar/Jsoup/24/1.patch
+/Users/higgs/Desktop/Patches/Repatt/Jsoup/24/1.patch
+/Users/higgs/Desktop/Patches/Repatt/Jsoup/24/2.patch
+===
+Jsoup 88 T
+/Users/higgs/Desktop/Patches/TBar/Jsoup/88/1.patch
+===
+Jsoup 90 F
+/Users/higgs/Desktop/Patches/Repatt/Jsoup/90/4.patch
+/Users/higgs/Desktop/Patches/Repatt/Jsoup/90/3.patch
+/Users/higgs/Desktop/Patches/Repatt/Jsoup/90/5.patch
+/Users/higgs/Desktop/Patches/TBar/Jsoup/90/1.patch
+/Users/higgs/Desktop/Patches/Repatt/Jsoup/90/2.patch
+/Users/higgs/Desktop/Patches/Repatt/Jsoup/90/1.patch
+===
+Jsoup 28 F
+/Users/higgs/Desktop/Patches/TBar/Jsoup/28/1.patch
+===
+Jsoup 32 F
+/Users/higgs/Desktop/Patches/Repatt/Jsoup/32/1.patch
+===
+Jsoup 33 F
+/Users/higgs/Desktop/Patches/Repatt/Jsoup/33/1.patch
+===
+Jsoup 39 T
+/Users/higgs/Desktop/Patches/SimFix/Jsoup/39/1.patch
+===
+Jsoup 40 T
+/Users/higgs/Desktop/Patches/TBar/Jsoup/40/1.patch
+/Users/higgs/Desktop/Patches/TransplantFix/Jsoup/40/1.patch
+/Users/higgs/Desktop/Patches/Repatt/Jsoup/40/2.patch
+/Users/higgs/Desktop/Patches/Repatt/Jsoup/40/1.patch
+===
+Jsoup 41 F
+/Users/higgs/Desktop/Patches/Repatt/Jsoup/41/1.patch
+/Users/higgs/Desktop/Patches/TBar/Jsoup/41/1.patch
+===
+Jsoup 45 F
+/Users/higgs/Desktop/Patches/TBar/Jsoup/45/1.patch
+/Users/higgs/Desktop/Patches/TransplantFix/Jsoup/45/1.patch
+===
+Jsoup 46 F
+/Users/higgs/Desktop/Patches/TBar/Jsoup/46/1.patch
+===
+Jsoup 49 T
+/Users/higgs/Desktop/Patches/TBar/Jsoup/49/1.patch
+/Users/higgs/Desktop/Patches/TransplantFix/Jsoup/49/1.patch
+===
+Jsoup 57 F
+/Users/higgs/Desktop/Patches/TransplantFix/Jsoup/57/1.patch
+/Users/higgs/Desktop/Patches/Repatt/Jsoup/57/1.patch
+===
+Jsoup 61 F
+/Users/higgs/Desktop/Patches/TBar/Jsoup/61/1.patch
+===
+Jsoup 63 F
+/Users/higgs/Desktop/Patches/TBar/Jsoup/63/1.patch
+===
+Time 17 F
+/Users/higgs/Desktop/Patches/Repatt/Time/17/2.patch
+/Users/higgs/Desktop/Patches/Repatt/Time/17/5.patch
+/Users/higgs/Desktop/Patches/Repatt/Time/17/7.patch
+/Users/higgs/Desktop/Patches/Repatt/Time/17/8.patch
+/Users/higgs/Desktop/Patches/TBar/Time/17/1.patch
+/Users/higgs/Desktop/Patches/Repatt/Time/17/6.patch
+/Users/higgs/Desktop/Patches/Repatt/Time/17/3.patch
+/Users/higgs/Desktop/Patches/Repatt/Time/17/4.patch
+/Users/higgs/Desktop/Patches/Repatt/Time/17/1.patch
+===
+Time 18 F
+/Users/higgs/Desktop/Patches/TBar/Time/18/1.patch
+/Users/higgs/Desktop/Patches/TransplantFix/Time/18/1.patch
+===
+Time 2 F
+/Users/higgs/Desktop/Patches/TBar/Time/2/1.patch
+===
+Time 19 T
+/Users/higgs/Desktop/Patches/Repatt/Time/19/1.patch
+/Users/higgs/Desktop/Patches/SimFix/Time/19/1.patch
+/Users/higgs/Desktop/Patches/TBar/Time/19/1.patch
+===
+Time 3 T
+/Users/higgs/Desktop/Patches/TransplantFix/Time/3/1.patch
+===
+Time 7 T
+/Users/higgs/Desktop/Patches/Repatt/Time/7/1.patch
+/Users/higgs/Desktop/Patches/TBar/Time/7/1.patch
+===
+Time 26 T
+/Users/higgs/Desktop/Patches/TBar/Time/26/2.patch
+/Users/higgs/Desktop/Patches/TBar/Time/26/3.patch
+/Users/higgs/Desktop/Patches/TBar/Time/26/1.patch
+===
+Lang 6 T
+/Users/higgs/Desktop/Patches/TBar/Lang/6/1.patch
+===
+Lang 7 T
+/Users/higgs/Desktop/Patches/Repatt/Lang/7/1.patch
+/Users/higgs/Desktop/Patches/TransplantFix/Lang/7/1.patch
+/Users/higgs/Desktop/Patches/Repatt/Lang/7/2.patch
+/Users/higgs/Desktop/Patches/TBar/Lang/7/1.patch
+===
+Lang 10 F
+/Users/higgs/Desktop/Patches/Repatt/Lang/10/3.patch
+/Users/higgs/Desktop/Patches/TransplantFix/Lang/10/1.patch
+/Users/higgs/Desktop/Patches/TBar/Lang/10/1.patch
+/Users/higgs/Desktop/Patches/Repatt/Lang/10/2.patch
+/Users/higgs/Desktop/Patches/Repatt/Lang/10/1.patch
+===
+Lang 13 F
+/Users/higgs/Desktop/Patches/TBar/Lang/13/1.patch
+===
+Lang 14 F
+/Users/higgs/Desktop/Patches/TransplantFix/Lang/14/1.patch
+===
+Lang 16 T
+/Users/higgs/Desktop/Patches/Repatt/Lang/16/1.patch
+===
+Lang 18 F
+/Users/higgs/Desktop/Patches/TBar/Lang/18/1.patch
+===
+Lang 21 F
+/Users/higgs/Desktop/Patches/TBar/Lang/21/1.patch
+===
+Lang 22 T
+/Users/higgs/Desktop/Patches/TBar/Lang/22/1.patch
+/Users/higgs/Desktop/Patches/TransplantFix/Lang/22/1.patch
+/Users/higgs/Desktop/Patches/Repatt/Lang/22/1.patch
+===
+Lang 24 T
+/Users/higgs/Desktop/Patches/TBar/Lang/24/1.patch
+===
+Lang 26 T
+/Users/higgs/Desktop/Patches/TBar/Lang/26/1.patch
+===
+Lang 27 F
+/Users/higgs/Desktop/Patches/Repatt/Lang/27/3.patch
+/Users/higgs/Desktop/Patches/TBar/Lang/27/1.patch
+/Users/higgs/Desktop/Patches/Repatt/Lang/27/1.patch
+/Users/higgs/Desktop/Patches/Repatt/Lang/27/2.patch
+/Users/higgs/Desktop/Patches/SimFix/Lang/27/1.patch
+===
+Lang 31 F
+/Users/higgs/Desktop/Patches/Repatt/Lang/31/1.patch
+/Users/higgs/Desktop/Patches/Repatt/Lang/31/2.patch
+===
+Lang 33 T
+/Users/higgs/Desktop/Patches/SimFix/Lang/33/1.patch
+/Users/higgs/Desktop/Patches/TBar/Lang/33/1.patch
+===
+Lang 38 T
+/Users/higgs/Desktop/Patches/Repatt/Lang/38/2.patch
+/Users/higgs/Desktop/Patches/Repatt/Lang/38/1.patch
+/Users/higgs/Desktop/Patches/Repatt/Lang/38/3.patch
+===
+Lang 39 F
+/Users/higgs/Desktop/Patches/Repatt/Lang/39/4.patch
+/Users/higgs/Desktop/Patches/Repatt/Lang/39/5.patch
+/Users/higgs/Desktop/Patches/SimFix/Lang/39/1.patch
+/Users/higgs/Desktop/Patches/Repatt/Lang/39/6.patch
+/Users/higgs/Desktop/Patches/Repatt/Lang/39/2.patch
+/Users/higgs/Desktop/Patches/Repatt/Lang/39/1.patch
+/Users/higgs/Desktop/Patches/TBar/Lang/39/1.patch
+/Users/higgs/Desktop/Patches/Repatt/Lang/39/3.patch
+/Users/higgs/Desktop/Patches/TransplantFix/Lang/39/1.patch
+===
+Lang 41 T
+/Users/higgs/Desktop/Patches/SimFix/Lang/41/1.patch
+===
+Lang 43 T
+/Users/higgs/Desktop/Patches/Repatt/Lang/43/1.patch
+/Users/higgs/Desktop/Patches/SimFix/Lang/43/1.patch
+/Users/higgs/Desktop/Patches/TransplantFix/Lang/43/1.patch
+===
+Lang 47 T
+/Users/higgs/Desktop/Patches/TBar/Lang/47/2.patch
+/Users/higgs/Desktop/Patches/TBar/Lang/47/1.patch
+===
+Lang 50 F
+/Users/higgs/Desktop/Patches/TransplantFix/Lang/50/1.patch
+===
+Lang 51 T
+/Users/higgs/Desktop/Patches/TBar/Lang/51/1.patch
+===
+Lang 55 F
+/Users/higgs/Desktop/Patches/TransplantFix/Lang/55/1.patch
+===
+Lang 57 T
+/Users/higgs/Desktop/Patches/TBar/Lang/57/1.patch
+===
+Lang 58 T
+/Users/higgs/Desktop/Patches/SimFix/Lang/58/1.patch
+/Users/higgs/Desktop/Patches/TBar/Lang/58/1.patch
+===
+Lang 59 T
+/Users/higgs/Desktop/Patches/Repatt/Lang/59/1.patch
+/Users/higgs/Desktop/Patches/TBar/Lang/59/1.patch
+/Users/higgs/Desktop/Patches/TransplantFix/Lang/59/1.patch
+===
+Lang 60 T
+/Users/higgs/Desktop/Patches/SimFix/Lang/60/1.patch
+===
+Lang 63 F
+/Users/higgs/Desktop/Patches/SimFix/Lang/63/1.patch
+/Users/higgs/Desktop/Patches/Repatt/Lang/63/1.patch
+/Users/higgs/Desktop/Patches/TransplantFix/Lang/63/1.patch
+/Users/higgs/Desktop/Patches/TBar/Lang/63/1.patch
+===
+Math 1 F
+/Users/higgs/Desktop/Patches/SimFix/Math/1/1.patch
+===
+Math 2 F
+/Users/higgs/Desktop/Patches/Repatt/Math/2/1.patch
+===
+Math 3 F
+/Users/higgs/Desktop/Patches/TBar/Math/3/1.patch
+===
+Math 4 T
+/Users/higgs/Desktop/Patches/TBar/Math/4/2.patch
+/Users/higgs/Desktop/Patches/TBar/Math/4/1.patch
+===
+Math 5 T
+/Users/higgs/Desktop/Patches/Repatt/Math/5/1.patch
+/Users/higgs/Desktop/Patches/SimFix/Math/5/1.patch
+/Users/higgs/Desktop/Patches/TBar/Math/5/1.patch
+===
+Math 8 F
+/Users/higgs/Desktop/Patches/Repatt/Math/8/3.patch
+/Users/higgs/Desktop/Patches/Repatt/Math/8/1.patch
+/Users/higgs/Desktop/Patches/SimFix/Math/8/1.patch
+/Users/higgs/Desktop/Patches/TBar/Math/8/1.patch
+/Users/higgs/Desktop/Patches/Repatt/Math/8/2.patch
+/Users/higgs/Desktop/Patches/TransplantFix/Math/8/1.patch
+===
+Math 11 T
+/Users/higgs/Desktop/Patches/Repatt/Math/11/1.patch
+/Users/higgs/Desktop/Patches/Repatt/Math/11/2.patch
+/Users/higgs/Desktop/Patches/TBar/Math/11/1.patch
+===
+Math 13 T
+/Users/higgs/Desktop/Patches/TransplantFix/Math/13/1.patch
+===
+Math 15 F
+/Users/higgs/Desktop/Patches/TBar/Math/15/2.patch
+/Users/higgs/Desktop/Patches/TBar/Math/15/1.patch
+===
+Math 22 T
+/Users/higgs/Desktop/Patches/TBar/Math/22/2.patch
+/Users/higgs/Desktop/Patches/TBar/Math/22/1.patch
+/Users/higgs/Desktop/Patches/TransplantFix/Math/22/1.patch
+===
+Math 23 F
+/Users/higgs/Desktop/Patches/TransplantFix/Math/23/1.patch
+===
+Math 28 F
+/Users/higgs/Desktop/Patches/Repatt/Math/28/2.patch
+/Users/higgs/Desktop/Patches/TBar/Math/28/2.patch
+/Users/higgs/Desktop/Patches/TransplantFix/Math/28/1.patch
+/Users/higgs/Desktop/Patches/SimFix/Math/28/1.patch
+/Users/higgs/Desktop/Patches/Repatt/Math/28/1.patch
+/Users/higgs/Desktop/Patches/Repatt/Math/28/3.patch
+/Users/higgs/Desktop/Patches/TBar/Math/28/1.patch
+===
+Math 30 T
+/Users/higgs/Desktop/Patches/Repatt/Math/30/2.patch
+/Users/higgs/Desktop/Patches/Repatt/Math/30/1.patch
+/Users/higgs/Desktop/Patches/TBar/Math/30/1.patch
+===
+Math 32 F
+/Users/higgs/Desktop/Patches/Repatt/Math/32/1.patch
+/Users/higgs/Desktop/Patches/TBar/Math/32/2.patch
+/Users/higgs/Desktop/Patches/TBar/Math/32/1.patch
+===
+Math 33 F
+/Users/higgs/Desktop/Patches/Repatt/Math/33/2.patch
+/Users/higgs/Desktop/Patches/Repatt/Math/33/3.patch
+/Users/higgs/Desktop/Patches/Repatt/Math/33/1.patch
+/Users/higgs/Desktop/Patches/SimFix/Math/33/1.patch
+/Users/higgs/Desktop/Patches/TBar/Math/33/1.patch
+===
+Math 34 T
+/Users/higgs/Desktop/Patches/TBar/Math/34/1.patch
+===
+Math 35 T
+/Users/higgs/Desktop/Patches/TBar/Math/35/2.patch
+/Users/higgs/Desktop/Patches/TBar/Math/35/1.patch
+/Users/higgs/Desktop/Patches/SimFix/Math/35/1.patch
+/Users/higgs/Desktop/Patches/TransplantFix/Math/35/1.patch
+===
+Math 41 T
+/Users/higgs/Desktop/Patches/SimFix/Math/41/1.patch
+===
+Math 43 F
+/Users/higgs/Desktop/Patches/TBar/Math/43/1.patch
+===
+Math 50 F
+/Users/higgs/Desktop/Patches/Repatt/Math/50/3.patch
+/Users/higgs/Desktop/Patches/Repatt/Math/50/5.patch
+/Users/higgs/Desktop/Patches/SimFix/Math/50/1.patch
+/Users/higgs/Desktop/Patches/Repatt/Math/50/4.patch
+/Users/higgs/Desktop/Patches/Repatt/Math/50/2.patch
+/Users/higgs/Desktop/Patches/TransplantFix/Math/50/1.patch
+/Users/higgs/Desktop/Patches/TBar/Math/50/1.patch
+/Users/higgs/Desktop/Patches/Repatt/Math/50/1.patch
+===
+Math 52 F
+/Users/higgs/Desktop/Patches/TBar/Math/52/1.patch
+===
+Math 53 T
+/Users/higgs/Desktop/Patches/Repatt/Math/53/1.patch
+/Users/higgs/Desktop/Patches/SimFix/Math/53/1.patch
+/Users/higgs/Desktop/Patches/TransplantFix/Math/53/1.patch
+===
+Math 56 F
+/Users/higgs/Desktop/Patches/TBar/Math/56/1.patch
+===
+Math 57 T
+/Users/higgs/Desktop/Patches/Repatt/Math/57/1.patch
+/Users/higgs/Desktop/Patches/SimFix/Math/57/1.patch
+/Users/higgs/Desktop/Patches/TBar/Math/57/1.patch
+/Users/higgs/Desktop/Patches/Repatt/Math/57/2.patch
+/Users/higgs/Desktop/Patches/TransplantFix/Math/57/1.patch
+===
+Math 58 T
+/Users/higgs/Desktop/Patches/TBar/Math/58/1.patch
+/Users/higgs/Desktop/Patches/Repatt/Math/58/1.patch
+===
+Math 59 T
+/Users/higgs/Desktop/Patches/Repatt/Math/59/1.patch
+/Users/higgs/Desktop/Patches/SimFix/Math/59/1.patch
+/Users/higgs/Desktop/Patches/TBar/Math/59/1.patch
+===
+Math 62 F
+/Users/higgs/Desktop/Patches/TBar/Math/62/1.patch
+===
+Math 63 F
+/Users/higgs/Desktop/Patches/TBar/Math/63/1.patch
+/Users/higgs/Desktop/Patches/Repatt/Math/63/3.patch
+/Users/higgs/Desktop/Patches/Repatt/Math/63/1.patch
+/Users/higgs/Desktop/Patches/Repatt/Math/63/2.patch
+/Users/higgs/Desktop/Patches/TransplantFix/Math/63/1.patch
+/Users/higgs/Desktop/Patches/SimFix/Math/63/1.patch
+===
+Math 65 T
+/Users/higgs/Desktop/Patches/Repatt/Math/65/1.patch
+/Users/higgs/Desktop/Patches/TBar/Math/65/1.patch
+/Users/higgs/Desktop/Patches/TransplantFix/Math/65/1.patch
+===
+Math 66 F
+/Users/higgs/Desktop/Patches/SimFix/Math/66/1.patch
+===
+Math 70 T
+/Users/higgs/Desktop/Patches/SimFix/Math/70/1.patch
+/Users/higgs/Desktop/Patches/TBar/Math/70/1.patch
+/Users/higgs/Desktop/Patches/Repatt/Math/70/1.patch
+/Users/higgs/Desktop/Patches/TransplantFix/Math/70/1.patch
+===
+Math 71 T
+/Users/higgs/Desktop/Patches/SimFix/Math/71/1.patch
+===
+Math 72 F
+/Users/higgs/Desktop/Patches/SimFix/Math/72/1.patch
+===
+Math 73 F
+/Users/higgs/Desktop/Patches/SimFix/Math/73/1.patch
+/Users/higgs/Desktop/Patches/Repatt/Math/73/1.patch
+/Users/higgs/Desktop/Patches/TBar/Math/73/1.patch
+/Users/higgs/Desktop/Patches/TransplantFix/Math/73/1.patch
+===
+Math 75 F
+/Users/higgs/Desktop/Patches/Repatt/Math/75/1.patch
+/Users/higgs/Desktop/Patches/SimFix/Math/75/1.patch
+/Users/higgs/Desktop/Patches/TBar/Math/75/1.patch
+/Users/higgs/Desktop/Patches/TransplantFix/Math/75/1.patch
+===
+Math 77 T
+/Users/higgs/Desktop/Patches/TBar/Math/77/1.patch
+/Users/higgs/Desktop/Patches/TBar/Math/77/2.patch
+===
+Math 78 F
+/Users/higgs/Desktop/Patches/TransplantFix/Math/78/1.patch
+===
+Math 79 T
+/Users/higgs/Desktop/Patches/Repatt/Math/79/1.patch
+/Users/higgs/Desktop/Patches/SimFix/Math/79/1.patch
+/Users/higgs/Desktop/Patches/TransplantFix/Math/79/1.patch
+/Users/higgs/Desktop/Patches/TBar/Math/79/1.patch
+===
+Math 80 F
+/Users/higgs/Desktop/Patches/Repatt/Math/80/4.patch
+/Users/higgs/Desktop/Patches/Repatt/Math/80/5.patch
+/Users/higgs/Desktop/Patches/SimFix/Math/80/1.patch
+/Users/higgs/Desktop/Patches/TBar/Math/80/1.patch
+/Users/higgs/Desktop/Patches/TransplantFix/Math/80/1.patch
+/Users/higgs/Desktop/Patches/Repatt/Math/80/3.patch
+/Users/higgs/Desktop/Patches/Repatt/Math/80/2.patch
+/Users/higgs/Desktop/Patches/Repatt/Math/80/1.patch
+===
+Math 81 F
+/Users/higgs/Desktop/Patches/SimFix/Math/81/1.patch
+===
+Math 82 T
+/Users/higgs/Desktop/Patches/Repatt/Math/82/2.patch
+/Users/higgs/Desktop/Patches/Repatt/Math/82/1.patch
+/Users/higgs/Desktop/Patches/SimFix/Math/82/1.patch
+/Users/higgs/Desktop/Patches/TBar/Math/82/1.patch
+/Users/higgs/Desktop/Patches/TransplantFix/Math/82/1.patch
+===
+Math 83 F
+/Users/higgs/Desktop/Patches/TransplantFix/Math/83/1.patch
+===
+Math 84 F
+/Users/higgs/Desktop/Patches/Repatt/Math/84/2.patch
+/Users/higgs/Desktop/Patches/Repatt/Math/84/3.patch
+/Users/higgs/Desktop/Patches/Repatt/Math/84/1.patch
+/Users/higgs/Desktop/Patches/SimFix/Math/84/1.patch
+/Users/higgs/Desktop/Patches/TransplantFix/Math/84/1.patch
+===
+Math 85 T
+/Users/higgs/Desktop/Patches/Repatt/Math/85/3.patch
+/Users/higgs/Desktop/Patches/TBar/Math/85/1.patch
+/Users/higgs/Desktop/Patches/SimFix/Math/85/1.patch
+/Users/higgs/Desktop/Patches/Repatt/Math/85/2.patch
+/Users/higgs/Desktop/Patches/Repatt/Math/85/1.patch
+/Users/higgs/Desktop/Patches/TransplantFix/Math/85/1.patch
+===
+Math 88 F
+/Users/higgs/Desktop/Patches/TBar/Math/88/1.patch
+===
+Math 89 T
+/Users/higgs/Desktop/Patches/TBar/Math/89/1.patch
+/Users/higgs/Desktop/Patches/TransplantFix/Math/89/1.patch
+===
+Math 94 F
+/Users/higgs/Desktop/Patches/TBar/Math/94/1.patch
+===
+Math 95 F
+/Users/higgs/Desktop/Patches/TransplantFix/Math/95/1.patch
+/Users/higgs/Desktop/Patches/Repatt/Math/95/3.patch
+/Users/higgs/Desktop/Patches/Repatt/Math/95/1.patch
+/Users/higgs/Desktop/Patches/Repatt/Math/95/2.patch
+===
+Math 96 F
+/Users/higgs/Desktop/Patches/TBar/Math/96/1.patch
+/Users/higgs/Desktop/Patches/Repatt/Math/96/1.patch
+===
+Math 97 F
+/Users/higgs/Desktop/Patches/TransplantFix/Math/97/1.patch
+===
+Math 98 T
+/Users/higgs/Desktop/Patches/SimFix/Math/98/1.patch
+/Users/higgs/Desktop/Patches/TBar/Math/98/2.patch
+/Users/higgs/Desktop/Patches/TBar/Math/98/1.patch
+/Users/higgs/Desktop/Patches/TransplantFix/Math/98/1.patch
+===
+Codec 17 F
+/Users/higgs/Desktop/Patches/Repatt/Codec/17/2.patch
+/Users/higgs/Desktop/Patches/Repatt/Codec/17/1.patch
+/Users/higgs/Desktop/Patches/Repatt/Codec/17/3.patch
+/Users/higgs/Desktop/Patches/TBar/Codec/17/1.patch
+/Users/higgs/Desktop/Patches/TransplantFix/Codec/17/1.patch
+===
+Codec 2 F
+/Users/higgs/Desktop/Patches/TransplantFix/Codec/2/1.patch
+===
+Codec 3 T
+/Users/higgs/Desktop/Patches/Repatt/Codec/3/1.patch
+===
+Codec 5 F
+/Users/higgs/Desktop/Patches/TBar/Codec/5/1.patch
+===
+Codec 7 T
+/Users/higgs/Desktop/Patches/TBar/Codec/7/1.patch
+/Users/higgs/Desktop/Patches/Repatt/Codec/7/1.patch
+===
+Codec 8 T
+/Users/higgs/Desktop/Patches/Repatt/Codec/8/3.patch
+/Users/higgs/Desktop/Patches/SimFix/Codec/8/1.patch
+/Users/higgs/Desktop/Patches/TBar/Codec/8/1.patch
+/Users/higgs/Desktop/Patches/Repatt/Codec/8/1.patch
+/Users/higgs/Desktop/Patches/TransplantFix/Codec/8/1.patch
+/Users/higgs/Desktop/Patches/Repatt/Codec/8/2.patch
+===
+Codec 9 F
+/Users/higgs/Desktop/Patches/TBar/Codec/9/1.patch
+/Users/higgs/Desktop/Patches/Repatt/Codec/9/1.patch
+/Users/higgs/Desktop/Patches/Repatt/Codec/9/2.patch
+/Users/higgs/Desktop/Patches/TransplantFix/Codec/9/1.patch
+===
+Codec 15 F
+/Users/higgs/Desktop/Patches/Repatt/Codec/15/2.patch
+/Users/higgs/Desktop/Patches/Repatt/Codec/15/3.patch
+/Users/higgs/Desktop/Patches/Repatt/Codec/15/1.patch
+/Users/higgs/Desktop/Patches/TBar/Codec/15/1.patch
+/Users/higgs/Desktop/Patches/Repatt/Codec/15/4.patch
+===
+JxPath 16 F
+/Users/higgs/Desktop/Patches/TBar/JxPath/16/1.patch
+===
+JxPath 17 F
+/Users/higgs/Desktop/Patches/TBar/JxPath/17/1.patch
+===
+JxPath 1 T
+/Users/higgs/Desktop/Patches/TBar/JxPath/1/1.patch
+===
+JxPath 20 F
+/Users/higgs/Desktop/Patches/Repatt/JxPath/20/2.patch
+/Users/higgs/Desktop/Patches/TransplantFix/JxPath/20/1.patch
+/Users/higgs/Desktop/Patches/Repatt/JxPath/20/3.patch
+/Users/higgs/Desktop/Patches/Repatt/JxPath/20/1.patch
+/Users/higgs/Desktop/Patches/TBar/JxPath/20/1.patch
+===
+JxPath 5 T
+/Users/higgs/Desktop/Patches/Repatt/JxPath/5/3.patch
+/Users/higgs/Desktop/Patches/Repatt/JxPath/5/1.patch
+/Users/higgs/Desktop/Patches/Repatt/JxPath/5/2.patch
+===
+JxPath 21 T
+/Users/higgs/Desktop/Patches/TransplantFix/JxPath/21/1.patch
+===
+JxPath 6 F
+/Users/higgs/Desktop/Patches/Repatt/JxPath/6/1.patch
+/Users/higgs/Desktop/Patches/Repatt/JxPath/6/2.patch
+/Users/higgs/Desktop/Patches/TBar/JxPath/6/1.patch
+===
+JxPath 22 F
+/Users/higgs/Desktop/Patches/Repatt/JxPath/22/5.patch
+/Users/higgs/Desktop/Patches/Repatt/JxPath/22/2.patch
+/Users/higgs/Desktop/Patches/Repatt/JxPath/22/6.patch
+/Users/higgs/Desktop/Patches/Repatt/JxPath/22/4.patch
+/Users/higgs/Desktop/Patches/Repatt/JxPath/22/3.patch
+/Users/higgs/Desktop/Patches/TransplantFix/JxPath/22/1.patch
+/Users/higgs/Desktop/Patches/Repatt/JxPath/22/1.patch
+===
+JxPath 10 F
+/Users/higgs/Desktop/Patches/TransplantFix/JxPath/10/1.patch
+===
+JxPath 12 T
+/Users/higgs/Desktop/Patches/TransplantFix/JxPath/12/1.patch
+===
+JxPath 13 F
+/Users/higgs/Desktop/Patches/TBar/JxPath/13/1.patch
+/Users/higgs/Desktop/Patches/TransplantFix/JxPath/13/1.patch
+===
+JxPath 14 F
+/Users/higgs/Desktop/Patches/Repatt/JxPath/14/1.patch
+/Users/higgs/Desktop/Patches/TransplantFix/JxPath/14/1.patch
+===
+Mockito 16 F
+/Users/higgs/Desktop/Patches/TransplantFix/Mockito/16/1.patch
+===
+Mockito 38 F
+/Users/higgs/Desktop/Patches/TBar/Mockito/38/1.patch
+/Users/higgs/Desktop/Patches/TransplantFix/Mockito/38/1.patch
+===
+Mockito 22 T
+/Users/higgs/Desktop/Patches/TransplantFix/Mockito/22/1.patch
+===
+Mockito 26 T
+/Users/higgs/Desktop/Patches/TBar/Mockito/26/1.patch
+===
+Mockito 29 F
+/Users/higgs/Desktop/Patches/Repatt/Mockito/29/1.patch
+/Users/higgs/Desktop/Patches/TBar/Mockito/29/1.patch
+===
+JacksonCore 17 F
+/Users/higgs/Desktop/Patches/TransplantFix/JacksonCore/17/1.patch
+/Users/higgs/Desktop/Patches/SimFix/JacksonCore/17/1.patch
+/Users/higgs/Desktop/Patches/TBar/JacksonCore/17/1.patch
+/Users/higgs/Desktop/Patches/Repatt/JacksonCore/17/1.patch
+===
+JacksonCore 1 F
+/Users/higgs/Desktop/Patches/TBar/JacksonCore/1/1.patch
+===
+JacksonCore 4 F
+/Users/higgs/Desktop/Patches/Repatt/JacksonCore/4/1.patch
+===
+JacksonCore 20 T
+/Users/higgs/Desktop/Patches/TransplantFix/JacksonCore/20/1.patch
+===
+JacksonCore 21 F
+/Users/higgs/Desktop/Patches/Repatt/JacksonCore/21/2.patch
+/Users/higgs/Desktop/Patches/Repatt/JacksonCore/21/1.patch
+/Users/higgs/Desktop/Patches/TransplantFix/JacksonCore/21/1.patch
+/Users/higgs/Desktop/Patches/TBar/JacksonCore/21/1.patch
+/Users/higgs/Desktop/Patches/Repatt/JacksonCore/21/3.patch
+/Users/higgs/Desktop/Patches/Repatt/JacksonCore/21/4.patch
+===
+JacksonCore 5 F
+/Users/higgs/Desktop/Patches/TransplantFix/JacksonCore/5/1.patch
+/Users/higgs/Desktop/Patches/Repatt/JacksonCore/5/1.patch
+===
+JacksonCore 8 F
+/Users/higgs/Desktop/Patches/TBar/JacksonCore/8/1.patch
+/Users/higgs/Desktop/Patches/Repatt/JacksonCore/8/2.patch
+/Users/higgs/Desktop/Patches/Repatt/JacksonCore/8/3.patch
+/Users/higgs/Desktop/Patches/Repatt/JacksonCore/8/1.patch
+/Users/higgs/Desktop/Patches/TransplantFix/JacksonCore/8/1.patch
+===
+JacksonCore 25 T
+/Users/higgs/Desktop/Patches/Repatt/JacksonCore/25/1.patch
+/Users/higgs/Desktop/Patches/TBar/JacksonCore/25/1.patch
+/Users/higgs/Desktop/Patches/Repatt/JacksonCore/25/2.patch
+/Users/higgs/Desktop/Patches/SimFix/JacksonCore/25/1.patch
+/Users/higgs/Desktop/Patches/TransplantFix/JacksonCore/25/1.patch
+===
+JacksonCore 11 T
+/Users/higgs/Desktop/Patches/Repatt/JacksonCore/11/2.patch
+/Users/higgs/Desktop/Patches/Repatt/JacksonCore/11/3.patch
+/Users/higgs/Desktop/Patches/Repatt/JacksonCore/11/1.patch
+===
+JacksonDatabind 64 F
+/Users/higgs/Desktop/Patches/Repatt/JacksonDatabind/64/1.patch
+/Users/higgs/Desktop/Patches/TransplantFix/JacksonDatabind/64/1.patch
+===
+JacksonDatabind 65 F
+/Users/higgs/Desktop/Patches/TBar/JacksonDatabind/65/1.patch
+===
+JacksonDatabind 1 F
+/Users/higgs/Desktop/Patches/TransplantFix/JacksonDatabind/1/1.patch
+===
+JacksonDatabind 3 T
+/Users/higgs/Desktop/Patches/Repatt/JacksonDatabind/3/1.patch
+/Users/higgs/Desktop/Patches/SimFix/JacksonDatabind/3/1.patch
+===
+JacksonDatabind 70 F
+/Users/higgs/Desktop/Patches/TransplantFix/JacksonDatabind/70/1.patch
+===
+JacksonDatabind 8 F
+/Users/higgs/Desktop/Patches/Repatt/JacksonDatabind/8/3.patch
+/Users/higgs/Desktop/Patches/Repatt/JacksonDatabind/8/5.patch
+/Users/higgs/Desktop/Patches/TBar/JacksonDatabind/8/1.patch
+/Users/higgs/Desktop/Patches/Repatt/JacksonDatabind/8/4.patch
+/Users/higgs/Desktop/Patches/Repatt/JacksonDatabind/8/2.patch
+/Users/higgs/Desktop/Patches/Repatt/JacksonDatabind/8/1.patch
+/Users/higgs/Desktop/Patches/TransplantFix/JacksonDatabind/8/1.patch
+===
+JacksonDatabind 75 F
+/Users/higgs/Desktop/Patches/TransplantFix/JacksonDatabind/75/1.patch
+===
+JacksonDatabind 12 F
+/Users/higgs/Desktop/Patches/Repatt/JacksonDatabind/12/2.patch
+/Users/higgs/Desktop/Patches/Repatt/JacksonDatabind/12/1.patch
+/Users/higgs/Desktop/Patches/TBar/JacksonDatabind/12/1.patch
+/Users/higgs/Desktop/Patches/SimFix/JacksonDatabind/12/1.patch
+/Users/higgs/Desktop/Patches/TransplantFix/JacksonDatabind/12/1.patch
+===
+JacksonDatabind 76 T
+/Users/higgs/Desktop/Patches/TBar/JacksonDatabind/76/1.patch
+/Users/higgs/Desktop/Patches/TransplantFix/JacksonDatabind/76/1.patch
+===
+JacksonDatabind 13 F
+/Users/higgs/Desktop/Patches/TBar/JacksonDatabind/13/1.patch
+===
+JacksonDatabind 16 F
+/Users/higgs/Desktop/Patches/TransplantFix/JacksonDatabind/16/1.patch
+/Users/higgs/Desktop/Patches/TBar/JacksonDatabind/16/1.patch
+===
+JacksonDatabind 82 T
+/Users/higgs/Desktop/Patches/Repatt/JacksonDatabind/82/1.patch
+===
+JacksonDatabind 83 T
+/Users/higgs/Desktop/Patches/Repatt/JacksonDatabind/83/3.patch
+/Users/higgs/Desktop/Patches/Repatt/JacksonDatabind/83/1.patch
+/Users/higgs/Desktop/Patches/SimFix/JacksonDatabind/83/1.patch
+/Users/higgs/Desktop/Patches/Repatt/JacksonDatabind/83/2.patch
+/Users/higgs/Desktop/Patches/TBar/JacksonDatabind/83/1.patch
+===
+JacksonDatabind 87 F
+/Users/higgs/Desktop/Patches/SimFix/JacksonDatabind/87/1.patch
+/Users/higgs/Desktop/Patches/TransplantFix/JacksonDatabind/87/1.patch
+===
+JacksonDatabind 24 T
+/Users/higgs/Desktop/Patches/Repatt/JacksonDatabind/24/2.patch
+/Users/higgs/Desktop/Patches/TBar/JacksonDatabind/24/1.patch
+/Users/higgs/Desktop/Patches/Repatt/JacksonDatabind/24/1.patch
+/Users/higgs/Desktop/Patches/Repatt/JacksonDatabind/24/3.patch
+===
+JacksonDatabind 90 F
+/Users/higgs/Desktop/Patches/TBar/JacksonDatabind/90/1.patch
+===
+JacksonDatabind 27 F
+/Users/higgs/Desktop/Patches/TransplantFix/JacksonDatabind/27/1.patch
+===
+JacksonDatabind 28 F
+/Users/higgs/Desktop/Patches/SimFix/JacksonDatabind/28/1.patch
+/Users/higgs/Desktop/Patches/TBar/JacksonDatabind/28/1.patch
+===
+JacksonDatabind 95 F
+/Users/higgs/Desktop/Patches/TBar/JacksonDatabind/95/1.patch
+===
+JacksonDatabind 96 T
+/Users/higgs/Desktop/Patches/Repatt/JacksonDatabind/96/1.patch
+===
+JacksonDatabind 33 F
+/Users/higgs/Desktop/Patches/TBar/JacksonDatabind/33/1.patch
+===
+JacksonDatabind 99 T
+/Users/higgs/Desktop/Patches/TransplantFix/JacksonDatabind/99/1.patch
+/Users/higgs/Desktop/Patches/TBar/JacksonDatabind/99/1.patch
+===
+JacksonDatabind 101 F
+/Users/higgs/Desktop/Patches/Repatt/JacksonDatabind/101/4.patch
+/Users/higgs/Desktop/Patches/Repatt/JacksonDatabind/101/5.patch
+/Users/higgs/Desktop/Patches/Repatt/JacksonDatabind/101/1.patch
+/Users/higgs/Desktop/Patches/Repatt/JacksonDatabind/101/2.patch
+/Users/higgs/Desktop/Patches/Repatt/JacksonDatabind/101/3.patch
+/Users/higgs/Desktop/Patches/TransplantFix/JacksonDatabind/101/1.patch
+===
+JacksonDatabind 102 F
+/Users/higgs/Desktop/Patches/TransplantFix/JacksonDatabind/102/1.patch
+/Users/higgs/Desktop/Patches/Repatt/JacksonDatabind/102/1.patch
+===
+JacksonDatabind 41 F
+/Users/higgs/Desktop/Patches/TBar/JacksonDatabind/41/1.patch
+/Users/higgs/Desktop/Patches/SimFix/JacksonDatabind/41/1.patch
+/Users/higgs/Desktop/Patches/Repatt/JacksonDatabind/41/1.patch
+/Users/higgs/Desktop/Patches/TransplantFix/JacksonDatabind/41/1.patch
+/Users/higgs/Desktop/Patches/Repatt/JacksonDatabind/41/2.patch
+===
+JacksonDatabind 108 T
+/Users/higgs/Desktop/Patches/TransplantFix/JacksonDatabind/108/1.patch
+===
+JacksonDatabind 46 T
+/Users/higgs/Desktop/Patches/Repatt/JacksonDatabind/46/1.patch
+/Users/higgs/Desktop/Patches/TransplantFix/JacksonDatabind/46/1.patch
+===
+JacksonDatabind 48 F
+/Users/higgs/Desktop/Patches/Repatt/JacksonDatabind/48/3.patch
+/Users/higgs/Desktop/Patches/SimFix/JacksonDatabind/48/1.patch
+/Users/higgs/Desktop/Patches/Repatt/JacksonDatabind/48/1.patch
+/Users/higgs/Desktop/Patches/Repatt/JacksonDatabind/48/2.patch
+/Users/higgs/Desktop/Patches/TransplantFix/JacksonDatabind/48/1.patch
+/Users/higgs/Desktop/Patches/Repatt/JacksonDatabind/48/4.patch
+===
+JacksonDatabind 49 T
+/Users/higgs/Desktop/Patches/Repatt/JacksonDatabind/49/1.patch
+/Users/higgs/Desktop/Patches/TransplantFix/JacksonDatabind/49/1.patch
+===
+JacksonDatabind 53 F
+/Users/higgs/Desktop/Patches/TBar/JacksonDatabind/53/1.patch
+/Users/higgs/Desktop/Patches/SimFix/JacksonDatabind/53/1.patch
+/Users/higgs/Desktop/Patches/Repatt/JacksonDatabind/53/1.patch
+===
+JacksonDatabind 54 F
+/Users/higgs/Desktop/Patches/SimFix/JacksonDatabind/54/1.patch
+/Users/higgs/Desktop/Patches/Repatt/JacksonDatabind/54/2.patch
+/Users/higgs/Desktop/Patches/Repatt/JacksonDatabind/54/1.patch
+/Users/higgs/Desktop/Patches/TransplantFix/JacksonDatabind/54/1.patch
+/Users/higgs/Desktop/Patches/TBar/JacksonDatabind/54/1.patch
+===
+JacksonDatabind 57 T
+/Users/higgs/Desktop/Patches/Repatt/JacksonDatabind/57/1.patch
+===
+JacksonDatabind 59 F
+/Users/higgs/Desktop/Patches/TBar/JacksonDatabind/59/1.patch
+/Users/higgs/Desktop/Patches/SimFix/JacksonDatabind/59/1.patch
+/Users/higgs/Desktop/Patches/TransplantFix/JacksonDatabind/59/1.patch
+===
+Chart 1 T
+/Users/higgs/Desktop/Patches/Repatt/Chart/1/3.patch
+/Users/higgs/Desktop/Patches/SimFix/Chart/1/1.patch
+/Users/higgs/Desktop/Patches/TBar/Chart/1/1.patch
+/Users/higgs/Desktop/Patches/TransplantFix/Chart/1/1.patch
+/Users/higgs/Desktop/Patches/Repatt/Chart/1/1.patch
+/Users/higgs/Desktop/Patches/Repatt/Chart/1/2.patch
+===
+Chart 2 F
+/Users/higgs/Desktop/Patches/SimFix/Chart/2/1.patch
+===
+Chart 4 T
+/Users/higgs/Desktop/Patches/TBar/Chart/4/1.patch
+===
+Chart 5 F
+/Users/higgs/Desktop/Patches/TransplantFix/Chart/5/1.patch
+===
+Chart 6 T
+/Users/higgs/Desktop/Patches/TransplantFix/Chart/6/1.patch
+===
+Chart 7 F
+/Users/higgs/Desktop/Patches/Repatt/Chart/7/4.patch
+/Users/higgs/Desktop/Patches/Repatt/Chart/7/3.patch
+/Users/higgs/Desktop/Patches/Repatt/Chart/7/1.patch
+/Users/higgs/Desktop/Patches/TBar/Chart/7/1.patch
+/Users/higgs/Desktop/Patches/SimFix/Chart/7/1.patch
+/Users/higgs/Desktop/Patches/Repatt/Chart/7/2.patch
+===
+Chart 8 T
+/Users/higgs/Desktop/Patches/Repatt/Chart/8/1.patch
+/Users/higgs/Desktop/Patches/TBar/Chart/8/1.patch
+===
+Chart 9 T
+/Users/higgs/Desktop/Patches/TBar/Chart/9/1.patch
+===
+Chart 11 T
+/Users/higgs/Desktop/Patches/TBar/Chart/11/1.patch
+===
+Chart 12 T
+/Users/higgs/Desktop/Patches/TransplantFix/Chart/12/1.patch
+/Users/higgs/Desktop/Patches/Repatt/Chart/12/1.patch
+/Users/higgs/Desktop/Patches/TBar/Chart/12/1.patch
+===
+Chart 13 F
+/Users/higgs/Desktop/Patches/Repatt/Chart/13/6.patch
+/Users/higgs/Desktop/Patches/Repatt/Chart/13/4.patch
+/Users/higgs/Desktop/Patches/Repatt/Chart/13/5.patch
+/Users/higgs/Desktop/Patches/Repatt/Chart/13/1.patch
+/Users/higgs/Desktop/Patches/TBar/Chart/13/1.patch
+/Users/higgs/Desktop/Patches/TransplantFix/Chart/13/1.patch
+/Users/higgs/Desktop/Patches/Repatt/Chart/13/3.patch
+/Users/higgs/Desktop/Patches/Repatt/Chart/13/2.patch
+===
+Chart 14 F
+/Users/higgs/Desktop/Patches/SimFix/Chart/14/1.patch
+/Users/higgs/Desktop/Patches/TBar/Chart/14/2.patch
+/Users/higgs/Desktop/Patches/TBar/Chart/14/4.patch
+/Users/higgs/Desktop/Patches/TBar/Chart/14/3.patch
+/Users/higgs/Desktop/Patches/TBar/Chart/14/1.patch
+===
+Chart 17 T
+/Users/higgs/Desktop/Patches/TransplantFix/Chart/17/1.patch
+===
+Chart 18 F
+/Users/higgs/Desktop/Patches/SimFix/Chart/18/1.patch
+===
+Chart 19 T
+/Users/higgs/Desktop/Patches/TBar/Chart/19/2.patch
+/Users/higgs/Desktop/Patches/TBar/Chart/19/1.patch
+/Users/higgs/Desktop/Patches/TransplantFix/Chart/19/1.patch
+===
+Chart 20 T
+/Users/higgs/Desktop/Patches/Repatt/Chart/20/1.patch
+/Users/higgs/Desktop/Patches/SimFix/Chart/20/1.patch
+/Users/higgs/Desktop/Patches/TBar/Chart/20/1.patch
+/Users/higgs/Desktop/Patches/TransplantFix/Chart/20/1.patch
+===
+Chart 21 F
+/Users/higgs/Desktop/Patches/TransplantFix/Chart/21/1.patch
+===
+Chart 22 F
+/Users/higgs/Desktop/Patches/SimFix/Chart/22/1.patch
+===
+Chart 24 T
+/Users/higgs/Desktop/Patches/Repatt/Chart/24/1.patch
+/Users/higgs/Desktop/Patches/TBar/Chart/24/1.patch
+===
+Chart 25 F
+/Users/higgs/Desktop/Patches/SimFix/Chart/25/1.patch
+===
+Chart 26 F
+/Users/higgs/Desktop/Patches/SimFix/Chart/26/1.patch
+/Users/higgs/Desktop/Patches/TransplantFix/Chart/26/1.patch
+/Users/higgs/Desktop/Patches/TBar/Chart/26/1.patch
+===
+

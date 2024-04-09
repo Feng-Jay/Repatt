@@ -1,0 +1,4 @@
+com.fasterxml.jackson.databind.ser.PropertyBuilder#146
+com.fasterxml.jackson.databind.ser.PropertyBuilder#157
+com.fasterxml.jackson.databind.ser.PropertyBuilder#157
+com.fasterxml.jackson.databind.ser.PropertyBuilder#162

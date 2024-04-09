@@ -1,0 +1,3 @@
+org.apache.commons.jxpath.ri.model.NodePointer#665
+org.apache.commons.jxpath.ri.model.NodePointer#666
+org.apache.commons.jxpath.ri.model.NodePointer#667

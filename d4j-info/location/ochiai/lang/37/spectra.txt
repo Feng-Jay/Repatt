@@ -1,0 +1,9 @@
+org.apache.commons.lang3.ArrayUtils#2956,0.5
+org.apache.commons.lang3.ArrayUtils#2954,0.5
+org.apache.commons.lang3.ArrayUtils#2961,0.5
+org.apache.commons.lang3.ArrayUtils#2960,0.5
+org.apache.commons.lang3.ArrayUtils#2962,0.5
+org.apache.commons.lang3.ArrayUtils#2959,0.5
+org.apache.commons.lang3.ArrayUtils#2964,0.5
+org.apache.commons.lang3.ArrayUtils#2955,0.0
+org.apache.commons.lang3.ArrayUtils#2957,0.0

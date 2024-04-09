@@ -1,0 +1,10 @@
+org.apache.commons.jxpath.ri.model.dom.DOMAttributeIterator#84
+org.apache.commons.jxpath.ri.model.dom.DOMAttributeIterator#87
+org.apache.commons.jxpath.ri.model.dom.DOMAttributeIterator#88
+org.apache.commons.jxpath.ri.model.dom.DOMAttributeIterator#89
+org.apache.commons.jxpath.ri.model.dom.DOMAttributeIterator#91
+org.apache.commons.jxpath.ri.model.dom.DOMAttributeIterator#92
+org.apache.commons.jxpath.ri.model.dom.DOMAttributeIterator#93
+org.apache.commons.jxpath.ri.model.dom.DOMAttributeIterator#95
+org.apache.commons.jxpath.ri.model.jdom.JDOMAttributeIterator#70
+org.apache.commons.jxpath.ri.model.jdom.JDOMAttributeIterator#82

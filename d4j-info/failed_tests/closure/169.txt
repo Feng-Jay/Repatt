@@ -1,0 +1,2 @@
+com.google.javascript.jscomp.TypeCheckTest::testIssue791
+com.google.javascript.rhino.jstype.RecordTypeTest::testSubtypeWithUnknowns2

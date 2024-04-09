@@ -1,0 +1,5 @@
+org.apache.commons.math3.optimization.direct.CMAESOptimizer$FitnessFunction#932
+org.apache.commons.math3.optimization.direct.CMAESOptimizer$FitnessFunction#958
+org.apache.commons.math3.optimization.direct.CMAESOptimizer$FitnessFunction#991
+org.apache.commons.math3.optimization.direct.CMAESOptimizer$FitnessFunction#992
+org.apache.commons.math3.optimization.direct.CMAESOptimizer$FitnessFunction#993

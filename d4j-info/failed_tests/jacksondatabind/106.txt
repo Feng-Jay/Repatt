@@ -1,0 +1,2 @@
+com.fasterxml.jackson.databind.node.TestTreeTraversingParser::testNumberOverflowLong
+com.fasterxml.jackson.databind.node.TestTreeTraversingParser::testNumberOverflowInt

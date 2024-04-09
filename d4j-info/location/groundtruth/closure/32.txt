@@ -1,0 +1,6 @@
+com.google.javascript.jscomp.parsing.JsDocInfoParser#1360
+com.google.javascript.jscomp.parsing.JsDocInfoParser#1381
+com.google.javascript.jscomp.parsing.JsDocInfoParser#1382
+com.google.javascript.jscomp.parsing.JsDocInfoParser#1391
+com.google.javascript.jscomp.parsing.JsDocInfoParser#1414
+com.google.javascript.jscomp.parsing.JsDocInfoParser#1415

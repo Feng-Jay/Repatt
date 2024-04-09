@@ -1,0 +1,9 @@
+org.mockito.internal.configuration.injection.PropertyAndSetterInjection#114
+org.mockito.internal.configuration.injection.filter.FinalMockCandidateFilter#12
+org.mockito.internal.configuration.injection.filter.MockCandidateFilter#8
+org.mockito.internal.configuration.injection.filter.MockCandidateFilter#15
+org.mockito.internal.configuration.injection.filter.NameBasedCandidateFilter#23
+org.mockito.internal.configuration.injection.filter.NameBasedCandidateFilter#31
+org.mockito.internal.configuration.injection.filter.NameBasedCandidateFilter#32
+org.mockito.internal.configuration.injection.filter.NameBasedCandidateFilter#43
+org.mockito.internal.configuration.injection.filter.TypeBasedCandidateFilter#28

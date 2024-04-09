@@ -1,0 +1,5 @@
+org.joda.time.Partial#217
+org.joda.time.Partial#218
+org.joda.time.Partial#222
+org.joda.time.Partial#449
+org.joda.time.field.UnsupportedDurationField#227

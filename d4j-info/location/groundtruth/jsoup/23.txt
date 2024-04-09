@@ -1,0 +1,3 @@
+org.jsoup.parser.CharacterReader#120
+org.jsoup.parser.CharacterReader#120
+org.jsoup.parser.Tokeniser#135

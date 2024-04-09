@@ -1,0 +1,2 @@
+com.google.javascript.jscomp.PeepholeOptimizationsPass#126
+com.google.javascript.jscomp.PeepholeOptimizationsPass#127

@@ -1,0 +1,3 @@
+com.google.javascript.jscomp.ProcessCommonJSModules#127
+com.google.javascript.jscomp.ProcessCommonJSModules#208
+com.google.javascript.jscomp.ProcessCommonJSModules#227

@@ -1,0 +1,2 @@
+org.jsoup.nodes.EntitiesTest::escape
+org.jsoup.nodes.EntitiesTest::caseSensitive

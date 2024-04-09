@@ -1,0 +1,4 @@
+com.google.gson.internal.bind.JsonTreeWriter#163
+com.google.gson.internal.bind.TypeAdapters#165
+com.google.gson.internal.bind.TypeAdapters#166
+com.google.gson.internal.bind.TypeAdapters#167

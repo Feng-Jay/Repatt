@@ -1,0 +1,3 @@
+com.google.gson.TypeInfoFactory#92
+com.google.gson.TypeInfoFactory#92
+com.google.gson.TypeInfoFactory#92

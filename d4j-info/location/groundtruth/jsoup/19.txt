@@ -1,0 +1,2 @@
+org.jsoup.safety.Whitelist#341
+org.jsoup.safety.Whitelist#342

@@ -1,0 +1,2 @@
+org.jsoup.safety.CleanerTest::testIsValidBodyHtml
+org.jsoup.safety.CleanerTest::testIsValidDocument

@@ -1,0 +1,3 @@
+com.google.javascript.jscomp.ScopedAliasesTest::testIssue1103a
+com.google.javascript.jscomp.ScopedAliasesTest::testIssue1103b
+com.google.javascript.jscomp.ScopedAliasesTest::testIssue1103c

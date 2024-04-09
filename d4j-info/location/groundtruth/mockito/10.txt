@@ -1,0 +1,5 @@
+org.mockito.internal.stubbing.defaultanswers.ReturnsDeepStubs#16
+org.mockito.internal.stubbing.defaultanswers.ReturnsDeepStubs#17
+org.mockito.internal.stubbing.defaultanswers.ReturnsDeepStubs#71
+org.mockito.internal.stubbing.defaultanswers.ReturnsDeepStubs#90
+org.mockito.internal.stubbing.defaultanswers.ReturnsDeepStubs#99

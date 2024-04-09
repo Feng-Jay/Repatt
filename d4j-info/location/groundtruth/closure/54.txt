@@ -1,0 +1,7 @@
+com.google.javascript.jscomp.TypedScopeCreator#1413
+com.google.javascript.rhino.jstype.FunctionType#340
+com.google.javascript.rhino.jstype.FunctionType#366
+com.google.javascript.rhino.jstype.FunctionType#368
+com.google.javascript.rhino.jstype.FunctionType#369
+com.google.javascript.rhino.jstype.FunctionType#370
+com.google.javascript.rhino.jstype.FunctionType#375

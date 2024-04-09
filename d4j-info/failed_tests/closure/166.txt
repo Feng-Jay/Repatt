@@ -1,0 +1,2 @@
+com.google.javascript.jscomp.TypeInferenceTest::testRecordInference
+com.google.javascript.jscomp.TypeInferenceTest::testIssue785

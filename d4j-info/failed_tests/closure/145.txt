@@ -1,0 +1,2 @@
+com.google.javascript.jscomp.CodePrinterTest::testFunctionSafariCompatiblity
+com.google.javascript.jscomp.CodePrinterTest::testDoLoopIECompatiblity

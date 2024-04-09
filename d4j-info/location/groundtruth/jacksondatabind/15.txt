@@ -1,0 +1,13 @@
+com.fasterxml.jackson.databind.ser.BeanSerializerFactory#163
+com.fasterxml.jackson.databind.ser.std.BeanSerializerBase#370
+com.fasterxml.jackson.databind.ser.std.StdDelegatingSerializer#121
+com.fasterxml.jackson.databind.ser.std.StdDelegatingSerializer#126
+com.fasterxml.jackson.databind.ser.std.StdDelegatingSerializer#127
+com.fasterxml.jackson.databind.ser.std.StdDelegatingSerializer#161
+com.fasterxml.jackson.databind.ser.std.StdDelegatingSerializer#172
+com.fasterxml.jackson.databind.ser.std.StdDelegatingSerializer#179
+com.fasterxml.jackson.databind.ser.std.StdDelegatingSerializer#180
+com.fasterxml.jackson.databind.ser.std.StdDelegatingSerializer#186
+com.fasterxml.jackson.databind.ser.std.StdDelegatingSerializer#187
+com.fasterxml.jackson.databind.ser.std.StdDelegatingSerializer#224
+com.fasterxml.jackson.databind.ser.std.StdSerializer#262

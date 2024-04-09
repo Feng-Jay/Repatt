@@ -1,0 +1,7 @@
+org.mockito.internal.creation.MockSettingsImpl#19
+org.mockito.internal.creation.MockSettingsImpl#22
+org.mockito.internal.creation.MockSettingsImpl#74
+org.mockito.internal.util.MockUtil#17
+org.mockito.internal.util.MockUtil#20
+org.mockito.internal.util.MockUtil#44
+org.mockito.internal.util.MockUtil#45

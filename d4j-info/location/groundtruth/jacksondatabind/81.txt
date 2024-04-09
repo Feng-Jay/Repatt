@@ -1,0 +1,15 @@
+com.fasterxml.jackson.databind.introspect.JacksonAnnotationIntrospector#763
+com.fasterxml.jackson.databind.introspect.JacksonAnnotationIntrospector#765
+com.fasterxml.jackson.databind.introspect.JacksonAnnotationIntrospector#763
+com.fasterxml.jackson.databind.introspect.JacksonAnnotationIntrospector#765
+com.fasterxml.jackson.databind.introspect.JacksonAnnotationIntrospector#796
+com.fasterxml.jackson.databind.introspect.JacksonAnnotationIntrospector#798
+com.fasterxml.jackson.databind.introspect.JacksonAnnotationIntrospector#796
+com.fasterxml.jackson.databind.introspect.JacksonAnnotationIntrospector#798
+com.fasterxml.jackson.databind.introspect.JacksonAnnotationIntrospector#830
+com.fasterxml.jackson.databind.introspect.JacksonAnnotationIntrospector#832
+com.fasterxml.jackson.databind.introspect.JacksonAnnotationIntrospector#830
+com.fasterxml.jackson.databind.introspect.JacksonAnnotationIntrospector#832
+com.fasterxml.jackson.databind.introspect.JacksonAnnotationIntrospector#1119
+com.fasterxml.jackson.databind.introspect.JacksonAnnotationIntrospector#1135
+com.fasterxml.jackson.databind.introspect.JacksonAnnotationIntrospector#1151

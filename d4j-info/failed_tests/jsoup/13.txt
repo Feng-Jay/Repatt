@@ -1,0 +1,4 @@
+org.jsoup.nodes.NodeTest::handlesAbsPrefixOnHasAttr
+org.jsoup.nodes.NodeTest::handlesAbsPrefix
+org.jsoup.select.ElementsTest::absAttr
+org.jsoup.select.ElementsTest::hasAbsAttr

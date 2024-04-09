@@ -1,0 +1,3 @@
+org.jsoup.parser.CharacterReader#17
+org.jsoup.parser.CharacterReader#19
+org.jsoup.parser.CharacterReader#99

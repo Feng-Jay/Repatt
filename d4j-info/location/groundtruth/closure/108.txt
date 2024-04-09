@@ -1,0 +1,14 @@
+com.google.javascript.jscomp.ScopedAliases#249
+com.google.javascript.jscomp.ScopedAliases#251
+com.google.javascript.jscomp.ScopedAliases#253
+com.google.javascript.jscomp.ScopedAliases#256
+com.google.javascript.jscomp.ScopedAliases#270
+com.google.javascript.jscomp.ScopedAliases#315
+com.google.javascript.jscomp.ScopedAliases#316
+com.google.javascript.jscomp.ScopedAliases#317
+com.google.javascript.jscomp.ScopedAliases#318
+com.google.javascript.jscomp.ScopedAliases#319
+com.google.javascript.jscomp.ScopedAliases#427
+com.google.javascript.jscomp.ScopedAliases#428
+com.google.javascript.jscomp.ScopedAliases#430
+com.google.javascript.jscomp.ScopedAliases#581

@@ -1,0 +1,14 @@
+org.apache.commons.lang3.ArrayUtils#3292,1.0
+org.apache.commons.lang3.ArrayUtils#3295,1.0
+org.apache.commons.lang3.ArrayUtils#3290,0.5773502691896258
+org.apache.commons.lang3.ArrayUtils#3289,0.5773502691896258
+org.apache.commons.lang3.ArrayUtils#3297,0.5773502691896258
+org.apache.commons.lang3.ArrayUtils#3299,0.5773502691896258
+org.apache.commons.lang3.ArrayUtils#3300,0.5773502691896258
+org.apache.commons.lang3.ArrayUtils#3535,0.3333333333333333
+org.apache.commons.lang3.ArrayUtils#3529,0.30151134457776363
+org.apache.commons.lang3.ArrayUtils#3531,0.0
+org.apache.commons.lang3.ArrayUtils#3530,0.0
+org.apache.commons.lang3.ArrayUtils#3533,0.0
+org.apache.commons.lang3.ArrayUtils#3532,0.0
+org.apache.commons.lang3.ArrayUtils#3291,0.0

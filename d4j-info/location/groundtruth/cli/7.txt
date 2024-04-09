@@ -1,0 +1,4 @@
+org.apache.commons.cli2.builder.PatternBuilder#19
+org.apache.commons.cli2.builder.PatternBuilder#20
+org.apache.commons.cli2.builder.PatternBuilder#21
+org.apache.commons.cli2.builder.PatternBuilder#67

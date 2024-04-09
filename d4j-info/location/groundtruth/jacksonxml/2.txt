@@ -1,0 +1,11 @@
+com.fasterxml.jackson.dataformat.xml.deser.XmlTokenStream#55
+com.fasterxml.jackson.dataformat.xml.deser.XmlTokenStream#68
+com.fasterxml.jackson.dataformat.xml.deser.XmlTokenStream#323
+com.fasterxml.jackson.dataformat.xml.deser.XmlTokenStream#325
+com.fasterxml.jackson.dataformat.xml.deser.XmlTokenStream#325
+com.fasterxml.jackson.dataformat.xml.deser.XmlTokenStream#329
+com.fasterxml.jackson.dataformat.xml.deser.XmlTokenStream#330
+com.fasterxml.jackson.dataformat.xml.deser.XmlTokenStream#333
+com.fasterxml.jackson.dataformat.xml.deser.XmlTokenStream#338
+com.fasterxml.jackson.dataformat.xml.deser.XmlTokenStream#341
+com.fasterxml.jackson.dataformat.xml.deser.XmlTokenStream#508

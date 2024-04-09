@@ -1,0 +1,9 @@
+org.jsoup.nodes.Attributes#5
+org.jsoup.nodes.Attributes#7
+org.jsoup.nodes.Attributes#122
+org.jsoup.nodes.Attributes#241
+org.jsoup.parser.HtmlTreeBuilder#197
+org.jsoup.parser.HtmlTreeBuilder#202
+org.jsoup.parser.Token#116
+org.jsoup.parser.XmlTreeBuilder#76
+org.jsoup.parser.XmlTreeBuilder#79

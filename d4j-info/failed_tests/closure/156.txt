@@ -1,0 +1,2 @@
+com.google.javascript.jscomp.CollapsePropertiesTest::testAliasedTopLevelEnum
+com.google.javascript.jscomp.CollapsePropertiesTest::testIssue389

@@ -1,0 +1,4 @@
+com.google.gson.internal.UnsafeAllocator#22
+com.google.gson.internal.UnsafeAllocator#48
+com.google.gson.internal.UnsafeAllocator#71
+com.google.gson.internal.UnsafeAllocator#90

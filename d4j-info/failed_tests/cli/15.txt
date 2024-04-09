@@ -1,0 +1,2 @@
+org.apache.commons.cli2.bug.BugCLI158Test::testSingleOptionSingleArgument
+org.apache.commons.cli2.bug.BugCLI158Test::testSingleOptionMaximumNumberOfArgument

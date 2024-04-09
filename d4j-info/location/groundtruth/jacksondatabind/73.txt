@@ -1,0 +1,3 @@
+com.fasterxml.jackson.databind.introspect.POJOPropertiesCollector#6
+com.fasterxml.jackson.databind.introspect.POJOPropertiesCollector#7
+com.fasterxml.jackson.databind.introspect.POJOPropertiesCollector#731
