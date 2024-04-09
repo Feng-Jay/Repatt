@@ -1,0 +1,12 @@
+diff --git a/src/main/java/org/jsoup/parser/TokeniserState.java b/src/main/java/org/jsoup/parser/TokeniserState.java
+index e530264..356e84c 100644
+--- a/src/main/java/org/jsoup/parser/TokeniserState.java
++++ b/src/main/java/org/jsoup/parser/TokeniserState.java
+@@ -554,6 +554,7 @@ enum TokeniserState {
+             if (r.matchesLetter()) {
+                 String name = r.consumeLetterSequence();
+                 t.tagPending.appendTagName(name.toLowerCase());
++		r.unconsume();
+                 t.dataBuffer.append(name);
+                 r.advance();
+                 return;

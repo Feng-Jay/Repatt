@@ -1,0 +1,12 @@
+diff --git a/src/com/google/javascript/jscomp/parsing/JsDocInfoParser.java b/src/com/google/javascript/jscomp/parsing/JsDocInfoParser.java
+index 26a56a7a..4d8d6cdf 100644
+--- a/src/com/google/javascript/jscomp/parsing/JsDocInfoParser.java
++++ b/src/com/google/javascript/jscomp/parsing/JsDocInfoParser.java
+@@ -1758,6 +1758,7 @@ public final class JsDocInfoParser {
+     // NOTE(nicksantos): We're not implementing generics at the moment, so
+     // just throw out TypeParameters.
+     if (token != JsDocToken.LP) {
++		unreadToken = token;
+       return reportTypeSyntaxWarning("msg.jsdoc.missing.lp");
+     }
+ 

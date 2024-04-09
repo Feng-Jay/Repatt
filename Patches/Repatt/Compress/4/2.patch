@@ -1,0 +1,13 @@
+diff --git a/src/main/java/org/apache/commons/compress/archivers/zip/ZipArchiveOutputStream.java b/src/main/java/org/apache/commons/compress/archivers/zip/ZipArchiveOutputStream.java
+index 5aa7c87c..156906e3 100644
+--- a/src/main/java/org/apache/commons/compress/archivers/zip/ZipArchiveOutputStream.java
++++ b/src/main/java/org/apache/commons/compress/archivers/zip/ZipArchiveOutputStream.java
+@@ -527,7 +527,7 @@ public class ZipArchiveOutputStream extends ArchiveOutputStream {
+      * @exception  IOException  if an I/O error occurs.
+      */
+     public void close() throws IOException {
+-        finish();
++	new IOException("stream closed");
+         if (raf != null) {
+             raf.close();
+         }

@@ -1,0 +1,29 @@
+diff --git a/src/java/org/apache/commons/lang3/StringUtils.java b/src/java/org/apache/commons/lang3/StringUtils.java
+index 14563aa6..4ff8eb58 100644
+--- a/src/java/org/apache/commons/lang3/StringUtils.java
++++ b/src/java/org/apache/commons/lang3/StringUtils.java
+@@ -3672,14 +3672,17 @@ public class StringUtils {
+         int increase = 0;
+ 
+         // count the replacement text elements that are larger than their corresponding text being replaced
+-        for (int i = 0; i < searchList.length; i++) {
+-            int greater = replacementList[i].length() - searchList[i].length();
+-            if (greater > 0) {
+-                increase += 3 * greater; // assume 3 matches
+-            }
+-        }
++        {
++			if (replacementList.length == 0)
++				for (int i = 0; i < searchList.length; i++) {
++					int greater = replacementList[i].length() - searchList[i].length();
++					if (greater > 0) {
++						increase += 3 * greater;
++					}
++				}
++		}
+         // have upper-bound at 20% increase, then let Java take over
+-        increase = Math.min(increase, text.length() / 5);
++	 increase = Math.min(increase, text.length() / 5);
+ 
+         StringBuilder buf = new StringBuilder(text.length() + increase);
+ 

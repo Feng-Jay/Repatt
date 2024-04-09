@@ -1,0 +1,22 @@
+diff --git a/src/java/org/apache/commons/jxpath/ri/model/NodePointer.java b/src/java/org/apache/commons/jxpath/ri/model/NodePointer.java
+index 6ff8d5f..cd1ae9f 100644
+--- a/src/java/org/apache/commons/jxpath/ri/model/NodePointer.java
++++ b/src/java/org/apache/commons/jxpath/ri/model/NodePointer.java
+@@ -662,9 +662,7 @@ public abstract class NodePointer implements Pointer {
+         }
+ 
+         if (depth1 == 1) {
+-            throw new JXPathException(
+-                    "Cannot compare pointers that do not belong to the same tree: '"
+-                            + p1 + "' and '" + p2 + "'");
++		return r == 0 ? 1: r;
+         }
+         int r = compareNodePointers(p1.parent, depth1 - 1, p2.parent, depth2 - 1);
+         if (r != 0) {
+@@ -703,4 +701,4 @@ public abstract class NodePointer implements Pointer {
+             printDeep(pointer.getImmediateParentPointer(), indent + "  ");
+         }
+     }
+-}
+\ No newline at end of file
++}

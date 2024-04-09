@@ -1,0 +1,14 @@
+diff --git a/src/main/java/com/fasterxml/jackson/databind/type/TypeFactory.java b/src/main/java/com/fasterxml/jackson/databind/type/TypeFactory.java
+index 6c43863fc..9cb0c5f78 100644
+--- a/src/main/java/com/fasterxml/jackson/databind/type/TypeFactory.java
++++ b/src/main/java/com/fasterxml/jackson/databind/type/TypeFactory.java
+@@ -599,7 +599,8 @@ public final class TypeFactory
+      */
+     @Deprecated
+     public JavaType constructType(Type type, Class<?> contextClass) {
+-        return constructType(type, constructType(contextClass));
++return constructType(type, TypeFactory.unknownType());
++ 
+     }
+ 
+     /**

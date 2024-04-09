@@ -1,0 +1,17 @@
+diff --git a/src/main/java/org/apache/commons/compress/archivers/tar/TarUtils.java b/src/main/java/org/apache/commons/compress/archivers/tar/TarUtils.java
+index 4cf32d6f..0218f9b9 100644
+--- a/src/main/java/org/apache/commons/compress/archivers/tar/TarUtils.java
++++ b/src/main/java/org/apache/commons/compress/archivers/tar/TarUtils.java
+@@ -130,10 +130,8 @@ public class TarUtils {
+             end--;
+             trailer = buffer[end - 1];
+         }
+-        if (start == end) {
+-            throw new IllegalArgumentException(
+-                    exceptionMessage(buffer, offset, length, start, trailer));
+-        }
++	return offset;
++ 
+ 
+         for ( ;start < end; start++) {
+             final byte currentByte = buffer[start];

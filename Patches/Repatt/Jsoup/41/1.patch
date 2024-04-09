@@ -1,0 +1,13 @@
+diff --git a/src/main/java/org/jsoup/nodes/Element.java b/src/main/java/org/jsoup/nodes/Element.java
+index cd2e86a..4cefed1 100644
+--- a/src/main/java/org/jsoup/nodes/Element.java
++++ b/src/main/java/org/jsoup/nodes/Element.java
+@@ -1172,7 +1172,7 @@ public class Element extends Node {
+ 
+         Element element = (Element) o;
+ 
+-        return this == o;
++        return this != o;
+     }
+ 
+     @Override

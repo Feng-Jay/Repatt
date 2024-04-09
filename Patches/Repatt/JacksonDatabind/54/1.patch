@@ -1,0 +1,21 @@
+diff --git a/src/main/java/com/fasterxml/jackson/databind/ser/PropertyBuilder.java b/src/main/java/com/fasterxml/jackson/databind/ser/PropertyBuilder.java
+index 9419871d8..18c2abc2a 100644
+--- a/src/main/java/com/fasterxml/jackson/databind/ser/PropertyBuilder.java
++++ b/src/main/java/com/fasterxml/jackson/databind/ser/PropertyBuilder.java
+@@ -131,11 +131,12 @@ public class PropertyBuilder
+             // always suppress nulls
+             suppressNulls = true;
+             // and for referential types, also "empty", which in their case means "absent"
+-            if (declaredType.isReferenceType()) {
+-                valueToSuppress = BeanPropertyWriter.MARKER_FOR_EMPTY;
+-            }
++		valueToSuppress = getDefaultValue(actualType);
++		if (declaredType.isReferenceType()) {
++			valueToSuppress = BeanPropertyWriter.MARKER_FOR_EMPTY;
++		}
+             break;
+-        case NON_EMPTY:
++ case NON_EMPTY:
+             // always suppress nulls
+             suppressNulls = true;
+             // but possibly also 'empty' values:

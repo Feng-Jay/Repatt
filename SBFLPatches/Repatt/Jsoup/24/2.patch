@@ -1,0 +1,28 @@
+diff --git a/src/main/java/org/jsoup/parser/TokeniserState.java b/src/main/java/org/jsoup/parser/TokeniserState.java
+index e530264..8cbce06 100644
+--- a/src/main/java/org/jsoup/parser/TokeniserState.java
++++ b/src/main/java/org/jsoup/parser/TokeniserState.java
+@@ -551,14 +551,15 @@ enum TokeniserState {
+     },
+     ScriptDataEscapedEndTagName {
+         void read(Tokeniser t, CharacterReader r) {
+-            if (r.matchesLetter()) {
+-                String name = r.consumeLetterSequence();
+-                t.tagPending.appendTagName(name.toLowerCase());
+-                t.dataBuffer.append(name);
+-                r.advance();
+-                return;
+-            }
+-
++	if (r.matchConsumeIgnoreCase("SYSTEM"))
++		if (r.matchesLetter()) {
++			String name = r.consumeLetterSequence();
++			t.tagPending.appendTagName(name.toLowerCase());
++			t.dataBuffer.append(name);
++			r.advance();
++			return;
++		}
++ 
+             if (t.isAppropriateEndTagToken() && !r.isEmpty()) {
+                 char c = r.consume();
+                 switch (c) {

@@ -1,0 +1,22 @@
+diff --git a/src/main/java/org/apache/commons/compress/archivers/tar/TarUtils.java b/src/main/java/org/apache/commons/compress/archivers/tar/TarUtils.java
+index c9d99aef..5809079d 100644
+--- a/src/main/java/org/apache/commons/compress/archivers/tar/TarUtils.java
++++ b/src/main/java/org/apache/commons/compress/archivers/tar/TarUtils.java
+@@ -126,12 +126,11 @@ public class TarUtils {
+         // space but some implementations use the extra digit for big
+         // sizes/uids/gids ...
+         byte trailer = buffer[end - 1];
+-        if (trailer == 0 || trailer == ' '){
+-            end--;
+-        } else {
+-            throw new IllegalArgumentException(
+-                    exceptionMessage(buffer, offset, length, end-1, trailer));
+-        }
++int literal;
++ 
++ 
++ 
++ 
+         trailer = buffer[end - 1];
+         while (start < end - 1 && (trailer == 0 || trailer == ' ')) {
+             end--;

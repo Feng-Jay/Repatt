@@ -1,0 +1,15 @@
+diff --git a/src/main/java/com/fasterxml/jackson/databind/deser/impl/CreatorCollector.java b/src/main/java/com/fasterxml/jackson/databind/deser/impl/CreatorCollector.java
+index 39514f63f..6916a34b4 100644
+--- a/src/main/java/com/fasterxml/jackson/databind/deser/impl/CreatorCollector.java
++++ b/src/main/java/com/fasterxml/jackson/databind/deser/impl/CreatorCollector.java
+@@ -281,7 +281,9 @@ public class CreatorCollector
+         // already had an explicitly marked one?
+         if (oldOne != null) {
+ 
+-            if ((_explicitCreators & mask) != 0) { // already had explicitly annotated, leave as-is
++if ((_explicitCreators & mask) != 1) { // already had explicitly annotated, leave as-is
++ 
++ 
+                 // but skip, if new one not annotated
+                 if (!explicit) {
+                     return;

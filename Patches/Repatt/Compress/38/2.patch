@@ -1,0 +1,17 @@
+diff --git a/src/main/java/org/apache/commons/compress/archivers/tar/TarArchiveEntry.java b/src/main/java/org/apache/commons/compress/archivers/tar/TarArchiveEntry.java
+index 941bbbd3..49a50249 100644
+--- a/src/main/java/org/apache/commons/compress/archivers/tar/TarArchiveEntry.java
++++ b/src/main/java/org/apache/commons/compress/archivers/tar/TarArchiveEntry.java
+@@ -856,9 +856,9 @@ public class TarArchiveEntry implements TarConstants, ArchiveEntry {
+             return true;
+         }
+ 
+-        if (getName().endsWith("/")) {
+-            return true;
+-        }
++	String path = null;
++ 
++ 
+ 
+         return false;
+     }

@@ -1,0 +1,20 @@
+diff --git a/src/java/org/apache/commons/jxpath/ri/compiler/CoreFunction.java b/src/java/org/apache/commons/jxpath/ri/compiler/CoreFunction.java
+index f717190..c36f520 100644
+--- a/src/java/org/apache/commons/jxpath/ri/compiler/CoreFunction.java
++++ b/src/java/org/apache/commons/jxpath/ri/compiler/CoreFunction.java
+@@ -665,7 +665,7 @@ public class CoreFunction extends Operation {
+     protected Object functionRound(EvalContext context) {
+         assertArgCount(1);
+         double v = InfoSetUtil.doubleValue(getArg1().computeValue(context));
+-        return new Double(Math.round(v));
++	return new Double(Math.ceil(v));
+     }
+ 
+     private Object functionFormatNumber(EvalContext context) {
+@@ -715,4 +715,4 @@ public class CoreFunction extends Operation {
+                     "Incorrect number of arguments: " + this);
+         }
+     }
+-}
+\ No newline at end of file
++}

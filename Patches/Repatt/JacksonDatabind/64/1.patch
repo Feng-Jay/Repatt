@@ -1,0 +1,12 @@
+diff --git a/src/main/java/com/fasterxml/jackson/databind/ser/PropertyBuilder.java b/src/main/java/com/fasterxml/jackson/databind/ser/PropertyBuilder.java
+index 2bd24051f..a2bea4f50 100644
+--- a/src/main/java/com/fasterxml/jackson/databind/ser/PropertyBuilder.java
++++ b/src/main/java/com/fasterxml/jackson/databind/ser/PropertyBuilder.java
+@@ -157,6 +157,7 @@ public class PropertyBuilder
+             if (_useRealPropertyDefaults) {
+                 // 07-Sep-2016, tatu: may also need to front-load access forcing now
+                 if (prov.isEnabled(MapperFeature.CAN_OVERRIDE_ACCESS_MODIFIERS)) {
++		    suppressNulls = true;
+                     am.fixAccess(_config.isEnabled(MapperFeature.OVERRIDE_PUBLIC_ACCESS_MODIFIERS));
+                 }
+                 valueToSuppress = getPropertyDefaultValue(propDef.getName(), am, actualType);

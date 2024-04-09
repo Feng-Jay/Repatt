@@ -1,0 +1,13 @@
+diff --git a/src/main/java/org/apache/commons/cli/HelpFormatter.java b/src/main/java/org/apache/commons/cli/HelpFormatter.java
+index 6b74e4e..fc31010 100644
+--- a/src/main/java/org/apache/commons/cli/HelpFormatter.java
++++ b/src/main/java/org/apache/commons/cli/HelpFormatter.java
+@@ -937,7 +937,7 @@ public class HelpFormatter
+         while ((pos <= text.length()) && ((c = text.charAt(pos)) != ' ')
+                && (c != '\n') && (c != '\r'))
+         {
+-            ++pos;
++		return pos;
+         }        
+         return pos == text.length() ? -1 : pos;
+     }

@@ -1,0 +1,15 @@
+diff --git a/src/main/java/org/jsoup/nodes/DocumentType.java b/src/main/java/org/jsoup/nodes/DocumentType.java
+index 4b4a5e9..80255a7 100644
+--- a/src/main/java/org/jsoup/nodes/DocumentType.java
++++ b/src/main/java/org/jsoup/nodes/DocumentType.java
+@@ -18,8 +18,8 @@ public class DocumentType extends Node {
+      */
+     public DocumentType(String name, String publicId, String systemId, String baseUri) {
+         super(baseUri);
+-
+-        Validate.notEmpty(name);
++	if (name.equals("noframes"))
++		Validate.notEmpty(name);
+         attr("name", name);
+         attr("publicId", publicId);
+         attr("systemId", systemId);

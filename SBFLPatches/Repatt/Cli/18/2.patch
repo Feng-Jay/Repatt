@@ -1,0 +1,12 @@
+diff --git a/src/java/org/apache/commons/cli/PosixParser.java b/src/java/org/apache/commons/cli/PosixParser.java
+index 8f03474..237f419 100644
+--- a/src/java/org/apache/commons/cli/PosixParser.java
++++ b/src/java/org/apache/commons/cli/PosixParser.java
+@@ -237,6 +237,7 @@ public class PosixParser extends Parser {
+         }
+         else if (stopAtNonOption)
+         {
++	    burstToken(token, stopAtNonOption);	
+             eatTheRest = true;
+         }
+     }

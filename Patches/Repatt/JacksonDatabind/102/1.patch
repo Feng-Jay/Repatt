@@ -1,0 +1,15 @@
+diff --git a/src/main/java/com/fasterxml/jackson/databind/ser/std/DateTimeSerializerBase.java b/src/main/java/com/fasterxml/jackson/databind/ser/std/DateTimeSerializerBase.java
+index 492cd98e8..013ecc05b 100644
+--- a/src/main/java/com/fasterxml/jackson/databind/ser/std/DateTimeSerializerBase.java
++++ b/src/main/java/com/fasterxml/jackson/databind/ser/std/DateTimeSerializerBase.java
+@@ -64,9 +64,7 @@ public abstract class DateTimeSerializerBase<T>
+     {
+         // Note! Should not skip if `property` null since that'd skip check
+         // for config overrides, in case of root value
+-        if (property == null) {
+-            return this;
+-        }
++	JsonDeserializer<Object> delegate=null;
+         JsonFormat.Value format = findFormatOverrides(serializers, property, handledType());
+         if (format == null) {
+             return this;

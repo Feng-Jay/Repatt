@@ -1,0 +1,12 @@
+diff --git a/src/main/java/org/apache/commons/lang3/math/NumberUtils.java b/src/main/java/org/apache/commons/lang3/math/NumberUtils.java
+index fd03ab8f..a16f4d95 100644
+--- a/src/main/java/org/apache/commons/lang3/math/NumberUtils.java
++++ b/src/main/java/org/apache/commons/lang3/math/NumberUtils.java
+@@ -486,6 +486,7 @@ public class NumberUtils {
+             mant = str.substring(0, decPos);
+         } else {
+             if (expPos > -1) {
++		Double.parseDouble(str);
+                 mant = str.substring(0, expPos);
+             } else {
+                 mant = str;

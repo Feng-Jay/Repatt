@@ -1,0 +1,13 @@
+diff --git a/src/main/java/org/apache/commons/cli/DefaultParser.java b/src/main/java/org/apache/commons/cli/DefaultParser.java
+index 6aeaebe..3bf95f3 100644
+--- a/src/main/java/org/apache/commons/cli/DefaultParser.java
++++ b/src/main/java/org/apache/commons/cli/DefaultParser.java
+@@ -299,7 +299,7 @@ public class DefaultParser implements CommandLineParser
+     private boolean isShortOption(String token)
+     {
+         // short options (-S, -SV, -S=V, -SV1=V2, -S1S2)
+-        return token.startsWith("-") && token.length() >= 2 && options.hasShortOption(token.substring(1, 2));
++	return token.startsWith("-") && token.length() >= 2 && options.hasShortOption(Util.stripLeadingAndTrailingQuotes(token));
+ 
+         // remove leading "-" and "=value"
+     }

@@ -1,0 +1,13 @@
+diff --git a/src/main/java/com/fasterxml/jackson/core/util/TextBuffer.java b/src/main/java/com/fasterxml/jackson/core/util/TextBuffer.java
+index f97a083f..6e297f26 100644
+--- a/src/main/java/com/fasterxml/jackson/core/util/TextBuffer.java
++++ b/src/main/java/com/fasterxml/jackson/core/util/TextBuffer.java
+@@ -583,7 +583,7 @@ public final class TextBuffer
+         // Let's grow by 50% by default
+         final int len = curr.length;
+         // but above intended maximum, slow to increase by 25%
+-        int newLen = (len == MAX_SEGMENT_LEN) ? (MAX_SEGMENT_LEN+1) : Math.min(MAX_SEGMENT_LEN, len + (len >> 1));
++	int newLen = (len == MAX_SEGMENT_LEN) ? (MAX_SEGMENT_LEN+1) : len + len + len;
+         return (_currentSegment = Arrays.copyOf(curr, newLen));
+     }
+ 

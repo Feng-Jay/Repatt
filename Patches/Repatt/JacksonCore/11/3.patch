@@ -1,0 +1,12 @@
+diff --git a/src/main/java/com/fasterxml/jackson/core/sym/ByteQuadsCanonicalizer.java b/src/main/java/com/fasterxml/jackson/core/sym/ByteQuadsCanonicalizer.java
+index f19acc72..1649abab 100644
+--- a/src/main/java/com/fasterxml/jackson/core/sym/ByteQuadsCanonicalizer.java
++++ b/src/main/java/com/fasterxml/jackson/core/sym/ByteQuadsCanonicalizer.java
+@@ -873,6 +873,7 @@ public final class ByteQuadsCanonicalizer
+ 
+     private void _verifySharing()
+     {
++	_verifyNeedForRehash();
+         if (_hashShared) {
+             _hashArea = Arrays.copyOf(_hashArea, _hashArea.length);
+             _names = Arrays.copyOf(_names, _names.length);

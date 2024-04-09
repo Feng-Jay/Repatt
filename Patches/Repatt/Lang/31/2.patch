@@ -1,0 +1,21 @@
+diff --git a/src/main/java/org/apache/commons/lang3/StringUtils.java b/src/main/java/org/apache/commons/lang3/StringUtils.java
+index a90b0673..6fff2873 100644
+--- a/src/main/java/org/apache/commons/lang3/StringUtils.java
++++ b/src/main/java/org/apache/commons/lang3/StringUtils.java
+@@ -1446,12 +1446,12 @@ public class StringUtils {
+ 		for (int i = 0; i < csLength; i++) {
+ 			char ch = cs.charAt(i);
+ 			for (int j = 0; j < searchLength; j++) {
+-				if (searchChars[j] == ch) {
+-						// ch is a supplementary character
+-						// ch is in the Basic Multilingual Plane
++				if ((i != 0))
++					if (searchChars[j] == ch) {
+ 						return true;
+-				}
++					}
+ 			}
++ }
+ 		}
+ 		return false;
+ 	}
